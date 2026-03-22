@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+0000-ABCDE,Male,0,No,No,51,Yes,Yes,DSL,No internet service,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),37.46,1980.86,No
+0001-ABCDE,Female,0,No,Yes,47,Yes,No phone service,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Two year,No,Bank transfer (automatic),108.06,5263.9,No
+0002-ABCDE,Male,0,No,Yes,4,Yes,Yes,DSL,No,No internet service,No internet service,Yes,No,No internet service,One year,No,Electronic check,90.22,367.85,Yes
+0003-ABCDE,Male,1,No,Yes,7,Yes,No phone service,No,No internet service,No internet service,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),106.58,755.38,No
+0004-ABCDE,Male,0,Yes,No,35,Yes,No,Fiber optic,Yes,Yes,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),57.11,1901.85,Yes
+0005-ABCDE,Female,0,Yes,No,48,Yes,No phone service,DSL,No,Yes,Yes,Yes,No internet service,No internet service,Two year,No,Mailed check,49.97,2458.06,No
+0006-ABCDE,Male,1,No,No,72,Yes,No phone service,Fiber optic,No,No,No,No internet service,Yes,No internet service,One year,Yes,Mailed check,56.82,3923.94,No
+0007-ABCDE,Male,1,Yes,No,45,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No internet service,No,No internet service,One year,No,Credit card (automatic),19.89,873.55,No
+0008-ABCDE,Male,1,No,No,72,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,91.92,6652.32,Yes
+0009-ABCDE,Female,0,Yes,No,19,Yes,Yes,DSL,No internet service,Yes,Yes,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),53.68,1015.0,Yes
+0010-ABCDE,Male,0,No,No,63,Yes,Yes,No,No internet service,No,Yes,No internet service,No,No internet service,Two year,Yes,Mailed check,49.96,2995.07,No
+0011-ABCDE,Male,0,No,Yes,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Two year,No,Electronic check,79.01,3099.65,Yes
+0012-ABCDE,Male,1,Yes,No,67,Yes,No,No,No internet service,No internet service,Yes,No internet service,Yes,No,Two year,No,Bank transfer (automatic),62.5,4346.12,No
+0013-ABCDE,Male,1,Yes,Yes,59,Yes,No phone service,DSL,Yes,No internet service,No internet service,Yes,No internet service,No,Two year,No,Credit card (automatic),118.05,7091.62,No
+0014-ABCDE,Female,0,No,Yes,69,Yes,No,No,No,No internet service,No internet service,No,No internet service,No,Month-to-month,No,Mailed check,54.34,3764.86,No
+0015-ABCDE,Male,0,No,No,13,Yes,No phone service,DSL,Yes,Yes,No,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),80.62,1096.35,Yes
+0016-ABCDE,Female,0,Yes,No,47,Yes,No phone service,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),49.79,2251.19,Yes
+0017-ABCDE,Female,1,Yes,Yes,61,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Two year,Yes,Credit card (automatic),119.04,7434.2,No
+0018-ABCDE,Female,1,No,Yes,31,Yes,No,No,No,Yes,Yes,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),63.4,1892.36,Yes
+0019-ABCDE,Male,0,Yes,No,22,No,Yes,DSL,Yes,No internet service,No,Yes,No internet service,No,Two year,Yes,Credit card (automatic),82.68,1797.47,No
+0020-ABCDE,Female,0,No,No,43,Yes,No,Fiber optic,No internet service,No,No,No,No,No,Two year,No,Bank transfer (automatic),30.93,1341.36,No
+0021-ABCDE,Male,0,No,Yes,67,No,No phone service,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),92.77,6362.95,No
+0022-ABCDE,Female,1,No,No,54,No,No phone service,DSL,No,Yes,Yes,Yes,No,No internet service,One year,Yes,Credit card (automatic),45.46,2333.01,No
+0023-ABCDE,Female,1,No,No,10,Yes,No,Fiber optic,Yes,Yes,No internet service,No,Yes,Yes,One year,Yes,Credit card (automatic),63.76,622.34,Yes
+0024-ABCDE,Female,1,Yes,No,42,Yes,No phone service,DSL,Yes,No internet service,No,Yes,No,Yes,One year,Yes,Electronic check,108.08,4556.7,Yes
+0025-ABCDE,Female,0,Yes,Yes,64,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,No internet service,No,Month-to-month,No,Mailed check,117.0,7512.62,No
+0026-ABCDE,Female,0,Yes,Yes,21,Yes,No,Fiber optic,No internet service,Yes,No,No internet service,Yes,Yes,One year,No,Electronic check,61.31,1305.23,Yes
+0027-ABCDE,Female,0,Yes,Yes,66,Yes,No,Fiber optic,No,No internet service,Yes,No internet service,No,No,One year,No,Mailed check,103.15,6674.37,No
+0028-ABCDE,Female,0,Yes,No,41,Yes,No,DSL,No,Yes,No internet service,No internet service,Yes,No,Month-to-month,Yes,Mailed check,23.44,964.94,No
+0029-ABCDE,Female,1,Yes,No,24,Yes,No phone service,Fiber optic,Yes,No,Yes,No internet service,No,Yes,One year,Yes,Electronic check,104.45,2429.04,Yes
+0030-ABCDE,Male,1,Yes,Yes,35,No,No phone service,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,One year,Yes,Electronic check,82.21,2787.25,No
+0031-ABCDE,Male,1,No,Yes,56,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No internet service,Yes,One year,Yes,Mailed check,67.85,3828.69,No
+0032-ABCDE,Female,1,Yes,Yes,30,Yes,Yes,Fiber optic,No,Yes,No internet service,No internet service,Yes,No,Month-to-month,Yes,Mailed check,108.78,3323.93,Yes
+0033-ABCDE,Female,0,Yes,No,57,Yes,No,No,No internet service,Yes,Yes,No internet service,Yes,Yes,Month-to-month,No,Mailed check,104.22,5715.04,Yes
+0034-ABCDE,Female,0,No,Yes,47,Yes,Yes,No,Yes,No internet service,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),48.29,2184.02,No
+0035-ABCDE,Male,1,Yes,Yes,35,Yes,No phone service,No,Yes,Yes,No,No,No,Yes,One year,No,Mailed check,98.73,3478.12,Yes
+0036-ABCDE,Female,1,Yes,No,19,Yes,Yes,DSL,No internet service,No internet service,No,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),28.15,522.55,Yes
+0037-ABCDE,Male,0,No,No,8,Yes,No phone service,DSL,No,No internet service,No internet service,Yes,Yes,No,One year,No,Credit card (automatic),101.92,806.59,Yes
+0038-ABCDE,Male,0,Yes,No,26,Yes,No,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Credit card (automatic),86.9,2236.98,Yes
+0039-ABCDE,Male,0,Yes,Yes,71,No,No,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,Yes,One year,No,Electronic check,26.96,1852.63,No
+0040-ABCDE,Male,1,Yes,No,30,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,87.67,2498.94,Yes
+0041-ABCDE,Male,0,No,No,7,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Two year,Yes,Electronic check,77.21,559.56,Yes
+0042-ABCDE,Female,0,Yes,Yes,67,Yes,No,DSL,Yes,No internet service,Yes,No internet service,Yes,No,Two year,Yes,Mailed check,78.64,5382.16,No
+0043-ABCDE,Female,0,Yes,No,65,Yes,No,Fiber optic,No,No,Yes,No internet service,No,Yes,Month-to-month,No,Credit card (automatic),47.67,3157.59,Yes
+0044-ABCDE,Female,0,No,Yes,36,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Two year,No,Mailed check,45.18,1634.04,No
+0045-ABCDE,Female,0,Yes,Yes,25,No,Yes,No,Yes,No internet service,No internet service,No internet service,Yes,No,One year,No,Bank transfer (automatic),95.78,2442.62,Yes
+0046-ABCDE,Female,0,No,No,37,Yes,No phone service,Fiber optic,No,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),44.19,1706.27,Yes
+0047-ABCDE,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No internet service,Yes,No internet service,No,No,Month-to-month,No,Electronic check,63.52,64.57,Yes
+0048-ABCDE,Female,0,Yes,No,15,Yes,Yes,Fiber optic,No,No,Yes,No,No internet service,No internet service,One year,No,Bank transfer (automatic),88.87,1301.74,No
+0049-ABCDE,Female,0,No,No,37,Yes,Yes,DSL,Yes,No,No internet service,No,No,No internet service,One year,Yes,Credit card (automatic),26.12,973.26,No
+0050-ABCDE,Male,0,No,No,13,Yes,No phone service,No,No internet service,No,No internet service,No internet service,No internet service,No,Month-to-month,No,Bank transfer (automatic),78.64,1016.42,Yes
+0051-ABCDE,Female,1,Yes,No,8,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No,One year,No,Electronic check,78.12,628.49,Yes
+0052-ABCDE,Male,0,No,Yes,5,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,No,Month-to-month,Yes,Mailed check,87.79,439.72,Yes
+0053-ABCDE,Female,0,No,Yes,60,Yes,No phone service,No,Yes,Yes,No,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),55.73,3463.77,No
+0054-ABCDE,Male,1,Yes,No,1,Yes,No,Fiber optic,No,No,No,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),63.8,64.77,Yes
+0055-ABCDE,Female,0,Yes,Yes,36,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),51.66,1801.88,No
+0056-ABCDE,Female,0,Yes,No,35,Yes,No,Fiber optic,Yes,No,Yes,No,No internet service,Yes,One year,Yes,Credit card (automatic),100.43,3361.45,Yes
+0057-ABCDE,Male,0,No,Yes,66,Yes,No,DSL,Yes,No,No,No internet service,No,No,Two year,No,Mailed check,31.32,2051.49,No
+0058-ABCDE,Male,0,Yes,Yes,63,Yes,Yes,DSL,No internet service,No,No,No,No internet service,No,Two year,Yes,Credit card (automatic),116.22,6967.2,No
+0059-ABCDE,Male,0,No,Yes,23,Yes,No,Fiber optic,No internet service,No internet service,No,No,No,No internet service,Two year,Yes,Electronic check,82.75,1868.67,No
+0060-ABCDE,Male,0,No,No,9,Yes,No phone service,No,Yes,No internet service,Yes,No,No,No,One year,No,Electronic check,108.46,963.26,Yes
+0061-ABCDE,Male,0,No,Yes,34,Yes,No phone service,DSL,No internet service,No,No,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),61.48,2064.31,Yes
+0062-ABCDE,Male,0,No,No,46,Yes,No phone service,No,No,Yes,No,Yes,No,No internet service,One year,No,Bank transfer (automatic),51.89,2501.36,No
+0063-ABCDE,Male,0,No,Yes,4,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),109.87,430.86,Yes
+0064-ABCDE,Male,0,No,Yes,30,Yes,No,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,28.09,822.92,No
+0065-ABCDE,Female,0,No,Yes,72,Yes,No,Fiber optic,No,No,No,No,No internet service,No internet service,Two year,No,Electronic check,29.94,2075.79,No
+0066-ABCDE,Female,0,Yes,Yes,3,No,Yes,No,No,Yes,No internet service,No,No internet service,Yes,Two year,No,Electronic check,48.53,145.75,No
+0067-ABCDE,Male,0,Yes,Yes,14,Yes,No,Fiber optic,No,No,No,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),115.9,1566.41,Yes
+0068-ABCDE,Female,1,No,No,60,No,No,Fiber optic,No internet service,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),82.57,5011.81,No
+0069-ABCDE,Female,0,No,No,45,Yes,No,DSL,Yes,No internet service,No internet service,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),74.53,3238.2,No
+0070-ABCDE,Female,0,Yes,Yes,34,Yes,Yes,Fiber optic,No internet service,No,No internet service,Yes,Yes,No,Two year,Yes,Electronic check,89.95,3081.75,No
+0071-ABCDE,Female,0,No,Yes,45,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,No internet service,No,One year,No,Mailed check,60.58,2815.04,No
+0072-ABCDE,Male,0,Yes,Yes,61,Yes,No,Fiber optic,No internet service,Yes,No internet service,No,No internet service,Yes,Two year,Yes,Credit card (automatic),95.32,5548.52,No
+0073-ABCDE,Female,0,Yes,Yes,16,No,Yes,DSL,No,Yes,No,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),58.11,922.3,No
+0074-ABCDE,Male,1,Yes,No,66,Yes,Yes,No,No internet service,Yes,No,Yes,No,No internet service,Two year,Yes,Electronic check,102.29,6724.84,No
+0075-ABCDE,Female,1,No,Yes,40,Yes,Yes,No,No internet service,No,No internet service,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),45.26,1863.1,Yes
+0076-ABCDE,Female,0,No,No,17,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,No,No internet service,Month-to-month,No,Mailed check,46.31,784.74,Yes
+0077-ABCDE,Female,1,Yes,Yes,34,No,No,DSL,No internet service,No internet service,No internet service,No,Yes,No,Two year,No,Mailed check,71.28,2439.89,No
+0078-ABCDE,Male,0,Yes,No,16,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,Yes,Yes,One year,No,Bank transfer (automatic),61.94,1019.9,No
+0079-ABCDE,Female,0,Yes,Yes,60,Yes,No phone service,No,No internet service,No internet service,Yes,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),84.11,5076.76,No
+0080-ABCDE,Male,0,Yes,Yes,66,Yes,Yes,DSL,No internet service,Yes,No internet service,No internet service,No,Yes,One year,Yes,Credit card (automatic),55.16,3588.97,No
+0081-ABCDE,Female,1,Yes,No,66,Yes,Yes,No,Yes,No internet service,No,Yes,No internet service,Yes,Two year,No,Mailed check,41.52,2626.83,No
+0082-ABCDE,Male,0,No,Yes,13,Yes,Yes,No,No,No,No internet service,No internet service,Yes,No internet service,Two year,No,Mailed check,65.92,876.66,No
+0083-ABCDE,Female,0,Yes,Yes,56,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),75.22,4368.66,Yes
+0084-ABCDE,Male,0,No,Yes,31,Yes,Yes,DSL,No internet service,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),32.55,1056.48,No
+0085-ABCDE,Male,0,Yes,No,34,Yes,No phone service,Fiber optic,No,No,Yes,No,No internet service,No internet service,Two year,Yes,Mailed check,74.79,2651.34,Yes
+0086-ABCDE,Female,0,No,Yes,39,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),50.56,2030.49,Yes
+0087-ABCDE,Male,0,No,Yes,67,No,No,No,No internet service,No,No internet service,Yes,Yes,No internet service,One year,Yes,Mailed check,58.03,3943.79,No
+0088-ABCDE,Female,0,No,No,8,Yes,No,DSL,Yes,No,Yes,No,No internet service,No internet service,One year,No,Bank transfer (automatic),46.49,382.39,No
+0089-ABCDE,Female,0,No,No,55,Yes,No,DSL,Yes,No internet service,Yes,No,No,No internet service,Two year,Yes,Credit card (automatic),113.0,6172.79,No
+0090-ABCDE,Female,0,No,No,27,Yes,No phone service,Fiber optic,No,No internet service,No,No internet service,No internet service,Yes,One year,Yes,Mailed check,87.7,2390.34,No
+0091-ABCDE,Female,0,No,Yes,53,Yes,No phone service,No,No,No,Yes,No,Yes,Yes,Two year,No,Mailed check,44.77,2336.91,No
+0092-ABCDE,Female,0,Yes,Yes,39,Yes,No phone service,No,No,No,No internet service,Yes,No internet service,Yes,One year,Yes,Mailed check,83.79,3211.18,No
+0093-ABCDE,Female,0,No,Yes,65,Yes,Yes,Fiber optic,No internet service,No,No internet service,Yes,Yes,No internet service,Two year,No,Mailed check,104.55,6970.19,No
+0094-ABCDE,Female,1,Yes,No,17,Yes,Yes,DSL,Yes,Yes,No internet service,No,Yes,No,One year,No,Bank transfer (automatic),58.97,997.87,No
+0095-ABCDE,Female,0,No,Yes,30,No,Yes,Fiber optic,Yes,No,Yes,No internet service,No,Yes,One year,No,Credit card (automatic),102.66,2991.15,No
+0096-ABCDE,Female,0,No,Yes,53,Yes,No,Fiber optic,Yes,Yes,No,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),33.75,1735.43,No
+0097-ABCDE,Female,0,Yes,No,13,No,Yes,Fiber optic,No,No,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,101.92,1372.55,Yes
+0098-ABCDE,Female,0,No,No,21,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),73.11,1562.6,Yes
+0099-ABCDE,Male,0,Yes,No,19,Yes,Yes,DSL,Yes,No,No internet service,No,Yes,No internet service,Month-to-month,No,Electronic check,40.74,777.62,Yes
+0100-ABCDE,Male,0,Yes,No,53,Yes,No,Fiber optic,Yes,No,No internet service,No internet service,No,No,Month-to-month,Yes,Mailed check,59.53,3123.84,Yes
+0101-ABCDE,Female,0,Yes,No,19,Yes,Yes,DSL,No,No,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),118.78,2241.21,Yes
+0102-ABCDE,Female,0,Yes,Yes,57,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),97.92,5334.43,No
+0103-ABCDE,Female,0,No,No,25,Yes,No phone service,No,No,No internet service,No,Yes,Yes,Yes,Two year,Yes,Mailed check,76.66,1907.86,No
+0104-ABCDE,Female,0,No,Yes,31,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,29.75,949.5,No
+0105-ABCDE,Female,0,Yes,Yes,55,Yes,Yes,No,Yes,Yes,No internet service,Yes,No internet service,No,Two year,No,Mailed check,60.62,3296.75,No
+0106-ABCDE,Female,0,No,No,23,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),44.83,1019.09,Yes
+0107-ABCDE,Female,0,No,No,32,Yes,No,Fiber optic,No,No,Yes,No,Yes,No internet service,Two year,Yes,Bank transfer (automatic),25.24,768.57,No
+0108-ABCDE,Female,0,Yes,No,62,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No,Yes,One year,No,Credit card (automatic),73.3,4525.44,No
+0109-ABCDE,Male,0,No,Yes,10,No,No phone service,DSL,Yes,Yes,No internet service,Yes,No internet service,No,Two year,No,Electronic check,108.7,1035.4,Yes
+0110-ABCDE,Female,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No,Yes,No,Yes,Two year,Yes,Credit card (automatic),86.91,6301.54,No
+0111-ABCDE,Male,0,Yes,No,54,Yes,Yes,DSL,No,Yes,No internet service,Yes,No internet service,No,Two year,Yes,Bank transfer (automatic),43.47,2348.97,No
+0112-ABCDE,Female,0,No,No,52,Yes,No,DSL,No,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),76.51,4113.79,No
+0113-ABCDE,Female,0,No,No,20,Yes,Yes,Fiber optic,Yes,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),114.21,2302.88,Yes
+0114-ABCDE,Male,1,No,No,32,Yes,Yes,No,No internet service,Yes,Yes,No,No internet service,Yes,Two year,No,Credit card (automatic),91.74,2883.84,No
+0115-ABCDE,Female,1,Yes,Yes,14,No,No,Fiber optic,Yes,No,No,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),88.33,1238.63,No
+0116-ABCDE,Male,0,Yes,Yes,50,Yes,No phone service,DSL,No,No,No internet service,No,No internet service,Yes,One year,Yes,Credit card (automatic),116.75,5954.08,No
+0117-ABCDE,Female,0,No,Yes,28,Yes,No,Fiber optic,No,No,No,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),99.49,2672.61,Yes
+0118-ABCDE,Female,1,No,No,53,Yes,Yes,No,Yes,No internet service,No internet service,No,No,No internet service,Two year,No,Electronic check,31.94,1713.32,No
+0119-ABCDE,Male,0,No,No,24,Yes,No,Fiber optic,Yes,No internet service,Yes,No,No internet service,No,One year,No,Bank transfer (automatic),53.46,1336.49,No
+0120-ABCDE,Female,0,No,No,22,Yes,No,No,No internet service,No,No,Yes,No internet service,No,Month-to-month,No,Mailed check,116.44,2510.22,Yes
+0121-ABCDE,Male,0,Yes,Yes,30,Yes,Yes,No,No internet service,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,67.95,2064.31,Yes
+0122-ABCDE,Female,0,No,No,63,Yes,No phone service,Fiber optic,No,Yes,No,No,No internet service,No internet service,Two year,Yes,Mailed check,29.39,1911.07,No
+0123-ABCDE,Male,0,Yes,No,4,Yes,No,DSL,No internet service,No,No internet service,No,Yes,No internet service,Two year,Yes,Credit card (automatic),64.78,259.43,No
+0124-ABCDE,Male,0,Yes,No,59,Yes,Yes,Fiber optic,No internet service,No,No,No,No,No internet service,Two year,No,Credit card (automatic),89.09,5370.89,No
+0125-ABCDE,Female,0,No,Yes,8,Yes,Yes,DSL,No,No internet service,No,No internet service,No,No,Two year,Yes,Mailed check,119.75,939.89,Yes
+0126-ABCDE,Female,0,No,No,12,No,No,DSL,No,No,No internet service,Yes,No internet service,No internet service,One year,No,Credit card (automatic),51.04,600.6,No
+0127-ABCDE,Male,0,No,Yes,31,Yes,No phone service,Fiber optic,No,Yes,No internet service,No internet service,No,No,One year,Yes,Credit card (automatic),70.44,2220.23,No
+0128-ABCDE,Female,0,Yes,No,34,Yes,No,DSL,No,No internet service,No internet service,No internet service,No internet service,No,Two year,Yes,Electronic check,107.73,3738.06,No
+0129-ABCDE,Female,0,No,Yes,49,Yes,No phone service,DSL,Yes,No internet service,No,Yes,No,Yes,Month-to-month,No,Mailed check,54.24,2773.91,No
+0130-ABCDE,Female,0,No,Yes,57,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No internet service,Yes,Two year,No,Electronic check,29.14,1615.28,No
+0131-ABCDE,Male,1,Yes,Yes,26,Yes,No phone service,Fiber optic,No,No,No,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,114.79,2975.05,Yes
+0132-ABCDE,Male,0,No,No,18,Yes,No phone service,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,67.82,1190.3,Yes
+0133-ABCDE,Male,0,Yes,No,38,Yes,No,DSL,No internet service,No internet service,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),69.28,2522.09,Yes
+0134-ABCDE,Male,0,No,Yes,50,Yes,Yes,No,No,No,No internet service,No,Yes,Yes,One year,No,Bank transfer (automatic),81.36,4028.63,No
+0135-ABCDE,Male,0,Yes,Yes,8,Yes,Yes,DSL,Yes,Yes,No,No internet service,Yes,Yes,Month-to-month,No,Mailed check,18.36,145.03,Yes
+0136-ABCDE,Male,0,No,No,41,Yes,Yes,No,Yes,No,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),112.98,4525.84,Yes
+0137-ABCDE,Male,0,No,No,6,Yes,Yes,Fiber optic,No,No,No internet service,Yes,No,No,One year,No,Electronic check,54.87,322.54,Yes
+0138-ABCDE,Male,0,Yes,Yes,69,Yes,Yes,No,Yes,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,No,Mailed check,58.49,3979.47,No
+0139-ABCDE,Male,0,Yes,No,44,Yes,Yes,Fiber optic,No internet service,No,No,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),35.76,1650.36,No
+0140-ABCDE,Female,0,No,No,64,Yes,No,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),56.57,3722.92,No
+0141-ABCDE,Male,0,Yes,No,29,No,No phone service,No,Yes,No,No internet service,No,No,No internet service,Month-to-month,Yes,Mailed check,100.0,2775.71,Yes
+0142-ABCDE,Female,0,Yes,No,28,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99.6,2892.66,Yes
+0143-ABCDE,Female,0,Yes,Yes,11,Yes,No,No,No,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),113.45,1264.59,Yes
+0144-ABCDE,Female,0,Yes,No,65,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No,No internet service,No,Month-to-month,No,Mailed check,59.13,3993.57,No
+0145-ABCDE,Male,1,No,No,19,No,Yes,DSL,No,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),90.29,1688.36,Yes
+0146-ABCDE,Male,0,No,Yes,9,Yes,No phone service,DSL,Yes,No,No internet service,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),69.74,625.43,Yes
+0147-ABCDE,Male,0,Yes,Yes,27,Yes,No phone service,Fiber optic,No internet service,No,No,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),100.01,2807.26,Yes
+0148-ABCDE,Male,0,Yes,No,34,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),90.68,3013.0,Yes
+0149-ABCDE,Female,0,Yes,No,44,Yes,Yes,No,Yes,No,No internet service,No internet service,No internet service,No,One year,No,Credit card (automatic),55.53,2544.84,No
+0150-ABCDE,Male,0,Yes,No,68,Yes,Yes,DSL,No,Yes,No internet service,No internet service,Yes,Yes,One year,No,Mailed check,52.34,3676.04,No
+0151-ABCDE,Male,0,No,No,15,Yes,Yes,No,Yes,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),43.75,687.79,Yes
+0152-ABCDE,Male,0,No,Yes,51,Yes,No phone service,Fiber optic,No,No,Yes,No internet service,Yes,No,Month-to-month,Yes,Credit card (automatic),76.8,3847.97,Yes
+0153-ABCDE,Male,0,Yes,Yes,13,Yes,No,Fiber optic,No internet service,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,116.31,1472.08,Yes
+0154-ABCDE,Male,0,Yes,Yes,49,Yes,Yes,No,No,No,No internet service,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),38.41,1850.26,No
+0155-ABCDE,Female,0,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),27.72,2028.62,No
+0156-ABCDE,Male,0,No,No,56,Yes,Yes,DSL,Yes,No internet service,No,No internet service,No,Yes,Month-to-month,No,Electronic check,30.18,1661.87,Yes
+0157-ABCDE,Female,0,Yes,No,51,Yes,No,No,No internet service,No internet service,No,Yes,Yes,No,One year,No,Bank transfer (automatic),97.88,5024.43,No
+0158-ABCDE,Male,0,No,No,37,No,Yes,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),53.71,1968.13,Yes
+0159-ABCDE,Female,0,Yes,Yes,17,Yes,No,DSL,Yes,No internet service,No,No,No,No internet service,One year,No,Credit card (automatic),40.89,687.92,No
+0160-ABCDE,Male,0,No,Yes,58,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,No,Electronic check,53.99,3035.4,No
+0161-ABCDE,Male,1,Yes,No,29,Yes,No,No,No,No internet service,Yes,No,Yes,No internet service,One year,Yes,Bank transfer (automatic),83.82,2439.79,No
+0162-ABCDE,Female,0,No,Yes,33,Yes,Yes,Fiber optic,Yes,No internet service,No,Yes,No,No,Month-to-month,No,Electronic check,73.77,2519.47,Yes
+0163-ABCDE,Female,0,Yes,No,60,No,No phone service,DSL,No,No,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,93.85,5377.32,Yes
+0164-ABCDE,Female,0,Yes,No,55,Yes,No phone service,DSL,No,No internet service,No internet service,No internet service,No internet service,Yes,One year,No,Mailed check,52.59,3005.03,No
+0165-ABCDE,Male,0,Yes,Yes,10,Yes,No phone service,DSL,No,No,No,No,Yes,Yes,Two year,Yes,Mailed check,64.11,651.71,Yes
+0166-ABCDE,Female,0,No,No,47,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,No internet service,Yes,Two year,Yes,Mailed check,28.4,1350.38,No
+0167-ABCDE,Male,0,Yes,No,23,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.45,592.72,No
+0168-ABCDE,Male,0,No,Yes,21,Yes,No phone service,No,Yes,Yes,No,No,No internet service,No,One year,Yes,Mailed check,65.15,1340.28,Yes
+0169-ABCDE,Female,0,No,No,13,Yes,No,Fiber optic,No internet service,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,48.76,628.5,Yes
+0170-ABCDE,Female,0,Yes,No,33,Yes,No phone service,No,Yes,No internet service,No,Yes,Yes,No,One year,Yes,Electronic check,80.51,2736.35,No
+0171-ABCDE,Male,1,Yes,Yes,24,Yes,No phone service,No,No internet service,No,No internet service,Yes,No internet service,Yes,Two year,No,Bank transfer (automatic),22.39,526.96,No
+0172-ABCDE,Male,0,Yes,No,11,Yes,No phone service,No,No internet service,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,30.42,333.62,Yes
+0173-ABCDE,Female,0,No,Yes,17,Yes,Yes,No,No internet service,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),106.25,1719.48,Yes
+0174-ABCDE,Female,0,Yes,No,68,Yes,No phone service,No,No internet service,No,No,No internet service,No internet service,No internet service,One year,No,Mailed check,75.76,5272.0,No
+0175-ABCDE,Female,1,No,Yes,47,Yes,No,DSL,Yes,Yes,No internet service,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),90.63,4224.55,No
+0176-ABCDE,Male,0,No,Yes,25,Yes,No phone service,Fiber optic,No,No internet service,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),103.88,2603.59,No
+0177-ABCDE,Male,0,Yes,Yes,21,Yes,No phone service,DSL,Yes,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,65.31,1318.66,Yes
+0178-ABCDE,Male,1,Yes,No,12,No,No phone service,No,No,No,Yes,No,Yes,No,Two year,Yes,Mailed check,95.63,1203.99,No
+0179-ABCDE,Male,1,Yes,Yes,37,Yes,No,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),71.51,2593.61,No
+0180-ABCDE,Male,1,Yes,Yes,42,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),40.72,1733.33,Yes
+0181-ABCDE,Male,0,Yes,Yes,17,Yes,No,DSL,No internet service,No internet service,Yes,Yes,No,No,Two year,Yes,Mailed check,52.44,898.72,Yes
+0182-ABCDE,Female,0,Yes,Yes,48,Yes,No,No,No,No internet service,Yes,No internet service,No internet service,Yes,One year,No,Mailed check,68.02,3358.04,No
+0183-ABCDE,Male,0,No,Yes,28,Yes,No phone service,DSL,No,No,No,No,No,No,One year,Yes,Mailed check,50.32,1379.91,No
+0184-ABCDE,Male,1,No,No,41,Yes,No,DSL,Yes,No,No internet service,No,No internet service,No,Two year,No,Mailed check,52.22,2195.81,No
+0185-ABCDE,Male,0,No,No,47,Yes,Yes,DSL,No,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),52.41,2434.33,Yes
+0186-ABCDE,Female,0,Yes,No,18,No,No phone service,DSL,Yes,No internet service,Yes,Yes,No,No,One year,Yes,Credit card (automatic),30.53,544.66,No
+0187-ABCDE,Male,0,No,No,71,Yes,No phone service,DSL,No,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,26.63,1923.39,No
+0188-ABCDE,Male,0,No,No,13,Yes,No,No,No,Yes,No internet service,No,No internet service,No internet service,One year,No,Mailed check,22.74,304.02,No
+0189-ABCDE,Female,0,No,No,13,Yes,No,No,No,Yes,No,Yes,No internet service,No,One year,No,Bank transfer (automatic),29.32,387.52,No
+0190-ABCDE,Male,0,No,No,31,Yes,No phone service,DSL,No internet service,No,Yes,No internet service,No internet service,Yes,Two year,No,Electronic check,53.06,1710.63,Yes
+0191-ABCDE,Male,0,No,Yes,2,Yes,Yes,No,No internet service,No internet service,No internet service,Yes,No internet service,Yes,Two year,Yes,Mailed check,78.57,153.76,Yes
+0192-ABCDE,Male,0,Yes,No,16,Yes,No,No,Yes,No,No internet service,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),37.19,618.88,Yes
+0193-ABCDE,Male,0,Yes,Yes,9,No,No,Fiber optic,No,No internet service,No,No,No,No,Two year,No,Bank transfer (automatic),108.58,941.15,Yes
+0194-ABCDE,Male,0,No,Yes,38,Yes,Yes,DSL,Yes,Yes,No,Yes,No internet service,No,One year,Yes,Electronic check,100.46,3878.38,No
+0195-ABCDE,Female,0,No,No,54,Yes,Yes,No,No,Yes,Yes,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),71.09,3857.14,No
+0196-ABCDE,Female,0,No,Yes,56,Yes,No phone service,No,No internet service,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),91.87,5141.96,Yes
+0197-ABCDE,Female,0,Yes,Yes,45,Yes,Yes,DSL,No internet service,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),55.37,2444.54,No
+0198-ABCDE,Male,0,Yes,Yes,34,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,No,One year,No,Mailed check,21.75,739.78,No
+0199-ABCDE,Male,0,No,Yes,9,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),110.24,958.6,Yes
+0200-ABCDE,Male,0,Yes,No,8,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No,Yes,Two year,No,Mailed check,31.03,245.0,No
+0201-ABCDE,Female,0,Yes,No,7,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No,Yes,Month-to-month,Yes,Mailed check,114.69,770.61,Yes
+0202-ABCDE,Male,0,No,No,36,Yes,No phone service,DSL,Yes,No,No,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),76.33,2767.62,Yes
+0203-ABCDE,Male,0,Yes,No,18,Yes,No phone service,DSL,No internet service,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),49.17,849.28,No
+0204-ABCDE,Female,0,Yes,No,3,Yes,Yes,DSL,No,Yes,No internet service,Yes,No,No,One year,Yes,Credit card (automatic),68.54,198.64,No
+0205-ABCDE,Male,1,No,No,28,Yes,No,Fiber optic,Yes,No,No,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),69.17,1856.47,Yes
+0206-ABCDE,Female,0,Yes,No,70,Yes,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No internet service,Yes,One year,No,Mailed check,20.38,1409.67,No
+0207-ABCDE,Female,1,Yes,No,44,No,No phone service,No,Yes,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,54.26,2469.08,Yes
+0208-ABCDE,Female,0,No,No,21,Yes,No phone service,DSL,No,No internet service,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),93.47,2042.74,Yes
+0209-ABCDE,Male,0,Yes,No,28,Yes,No phone service,Fiber optic,No internet service,No,No internet service,Yes,No,Yes,Two year,Yes,Mailed check,70.03,1876.89,No
+0210-ABCDE,Male,0,Yes,Yes,54,Yes,No,Fiber optic,No,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,42.91,2348.32,No
+0211-ABCDE,Male,0,No,No,54,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,Yes,Yes,One year,Yes,Electronic check,52.18,2869.67,No
+0212-ABCDE,Male,0,No,Yes,65,Yes,No,DSL,No,No internet service,Yes,Yes,Yes,No,Two year,Yes,Electronic check,106.03,6915.22,No
+0213-ABCDE,Male,0,No,Yes,21,Yes,No phone service,No,Yes,No internet service,No,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),71.61,1528.92,No
+0214-ABCDE,Male,0,Yes,Yes,13,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),71.89,909.68,No
+0215-ABCDE,Male,1,No,Yes,57,No,No phone service,DSL,No internet service,Yes,No,Yes,No internet service,No internet service,One year,Yes,Electronic check,116.07,6609.14,No
+0216-ABCDE,Female,1,Yes,No,49,No,Yes,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No,One year,Yes,Mailed check,50.73,2458.64,No
+0217-ABCDE,Male,1,No,Yes,54,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,No,Mailed check,66.91,3464.9,Yes
+0218-ABCDE,Female,0,Yes,No,10,Yes,Yes,No,No,No,No internet service,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),100.79,1020.55,Yes
+0219-ABCDE,Male,0,No,No,53,Yes,No phone service,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.41,5054.31,Yes
+0220-ABCDE,Male,1,No,Yes,44,Yes,No,Fiber optic,Yes,No internet service,Yes,No internet service,No,No,Month-to-month,No,Credit card (automatic),45.11,1940.22,Yes
+0221-ABCDE,Male,0,No,No,47,Yes,Yes,DSL,No,Yes,No internet service,No,No,Yes,Month-to-month,No,Credit card (automatic),33.41,1566.14,Yes
+0222-ABCDE,Female,0,No,Yes,53,Yes,No phone service,DSL,No,No,Yes,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),89.47,4872.45,Yes
+0223-ABCDE,Female,0,Yes,Yes,46,Yes,No phone service,No,Yes,No internet service,No internet service,No,Yes,No internet service,Two year,No,Bank transfer (automatic),44.28,2098.32,No
+0224-ABCDE,Female,0,No,No,13,Yes,No,DSL,No internet service,No internet service,No,No internet service,Yes,Yes,Two year,No,Mailed check,112.11,1479.22,Yes
+0225-ABCDE,Female,1,No,No,37,No,Yes,DSL,No,No internet service,No,No internet service,Yes,Yes,Month-to-month,No,Electronic check,31.18,1149.94,Yes
+0226-ABCDE,Male,0,Yes,Yes,24,Yes,No phone service,No,No,Yes,No,No,No,Yes,One year,Yes,Electronic check,50.47,1220.46,No
+0227-ABCDE,Female,0,No,No,2,Yes,No,Fiber optic,No internet service,No,Yes,No,No internet service,No internet service,Two year,No,Electronic check,23.59,46.64,No
+0228-ABCDE,Male,0,Yes,No,14,Yes,Yes,No,No internet service,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,89.74,1209.44,Yes
+0229-ABCDE,Male,0,No,No,10,Yes,No,DSL,Yes,No internet service,No internet service,No internet service,No,Yes,One year,No,Electronic check,108.91,1076.64,Yes
+0230-ABCDE,Female,0,No,Yes,35,Yes,No,No,No,No,No internet service,No,Yes,No,One year,Yes,Bank transfer (automatic),82.86,2908.9,No
+0231-ABCDE,Female,1,No,Yes,25,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),113.65,2869.33,Yes
+0232-ABCDE,Female,0,Yes,No,3,No,No phone service,No,Yes,No internet service,Yes,No internet service,No internet service,Yes,Two year,Yes,Credit card (automatic),31.11,97.4,No
+0233-ABCDE,Female,0,No,No,17,Yes,No phone service,DSL,No internet service,Yes,No internet service,Yes,Yes,Yes,One year,No,Electronic check,26.95,470.86,No
+0234-ABCDE,Female,0,No,No,12,Yes,No,DSL,Yes,No internet service,No,Yes,Yes,No internet service,Two year,No,Bank transfer (automatic),103.52,1199.01,No
+0235-ABCDE,Female,1,No,No,54,Yes,No phone service,No,No internet service,No,No internet service,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),105.26,5498.84,Yes
+0236-ABCDE,Female,0,Yes,No,24,Yes,No,Fiber optic,Yes,No internet service,No,No,No internet service,No,One year,Yes,Electronic check,102.77,2367.94,Yes
+0237-ABCDE,Female,1,Yes,Yes,29,Yes,No,No,No internet service,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,99.49,2953.93,Yes
+0238-ABCDE,Male,0,No,No,43,No,No phone service,Fiber optic,Yes,Yes,No,No,No internet service,No internet service,One year,Yes,Bank transfer (automatic),54.95,2411.55,No
+0239-ABCDE,Female,0,Yes,Yes,25,Yes,Yes,Fiber optic,No internet service,No,No,No,No,Yes,One year,Yes,Credit card (automatic),40.18,1053.36,No
+0240-ABCDE,Female,0,No,No,60,Yes,Yes,No,No internet service,Yes,No,Yes,No,No internet service,Two year,No,Credit card (automatic),112.74,6779.3,No
+0241-ABCDE,Male,0,No,Yes,65,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),49.31,3309.77,No
+0242-ABCDE,Female,0,No,No,28,Yes,No,DSL,No internet service,Yes,Yes,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),58.64,1654.47,No
+0243-ABCDE,Male,0,No,Yes,16,Yes,No,No,No internet service,Yes,Yes,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),89.36,1483.25,Yes
+0244-ABCDE,Male,0,No,No,47,Yes,No,Fiber optic,No,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,47.92,2302.02,Yes
+0245-ABCDE,Female,1,No,Yes,58,Yes,No phone service,DSL,No internet service,Yes,No internet service,Yes,No,No,Month-to-month,No,Bank transfer (automatic),101.55,5974.06,Yes
+0246-ABCDE,Male,0,No,Yes,27,Yes,No,No,No,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),25.14,683.2,Yes
+0247-ABCDE,Male,0,Yes,Yes,53,Yes,No phone service,DSL,No internet service,No internet service,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,98.7,5347.74,Yes
+0248-ABCDE,Male,1,Yes,Yes,42,Yes,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),79.39,3307.59,Yes
+0249-ABCDE,Male,0,Yes,Yes,59,Yes,Yes,DSL,No,Yes,No internet service,No,No,Yes,One year,Yes,Bank transfer (automatic),76.45,4328.58,No
+0250-ABCDE,Female,0,Yes,Yes,47,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,Yes,No,One year,No,Electronic check,64.75,2903.26,No
+0251-ABCDE,Male,1,Yes,No,34,Yes,Yes,No,No internet service,No,No internet service,Yes,Yes,No internet service,One year,Yes,Credit card (automatic),46.26,1569.54,No
+0252-ABCDE,Female,0,Yes,Yes,37,Yes,No phone service,No,Yes,Yes,No,No,Yes,Yes,Two year,No,Electronic check,65.34,2441.58,No
+0253-ABCDE,Male,0,Yes,No,6,Yes,No phone service,Fiber optic,Yes,No,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,63.9,367.25,Yes
+0254-ABCDE,Male,0,No,No,7,Yes,No phone service,No,No internet service,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),77.54,531.21,Yes
+0255-ABCDE,Male,0,No,No,25,No,No,DSL,Yes,No,Yes,Yes,No internet service,Yes,One year,Yes,Bank transfer (automatic),46.72,1147.21,No
+0256-ABCDE,Male,0,No,No,33,No,No phone service,No,No internet service,Yes,No,No internet service,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),25.91,860.4,Yes
+0257-ABCDE,Female,0,No,No,55,Yes,Yes,Fiber optic,Yes,No,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),32.8,1764.04,No
+0258-ABCDE,Female,1,Yes,Yes,58,No,Yes,DSL,No internet service,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),89.32,4971.08,Yes
+0259-ABCDE,Male,0,Yes,Yes,7,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),20.29,137.27,Yes
+0260-ABCDE,Male,0,No,Yes,57,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,Yes,No,Two year,Yes,Mailed check,105.36,5809.71,No
+0261-ABCDE,Female,0,No,No,12,Yes,Yes,DSL,No,No internet service,No,No internet service,Yes,Yes,One year,Yes,Bank transfer (automatic),88.83,1102.49,Yes
+0262-ABCDE,Male,0,Yes,Yes,16,Yes,No phone service,No,Yes,No,No,No,Yes,No,One year,No,Bank transfer (automatic),96.34,1508.19,Yes
+0263-ABCDE,Male,0,No,Yes,43,Yes,Yes,DSL,No,No internet service,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),103.27,4535.95,Yes
+0264-ABCDE,Male,0,No,Yes,7,Yes,No,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,30.52,215.09,No
+0265-ABCDE,Female,0,No,Yes,51,Yes,Yes,No,Yes,No internet service,No internet service,Yes,No internet service,No,One year,No,Bank transfer (automatic),101.89,5444.28,No
+0266-ABCDE,Female,0,No,Yes,32,Yes,No,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,No internet service,One year,Yes,Mailed check,69.47,2172.54,No
+0267-ABCDE,Female,1,Yes,No,8,Yes,No phone service,DSL,No,No,No internet service,No,Yes,No,One year,No,Electronic check,108.32,836.96,Yes
+0268-ABCDE,Male,0,No,Yes,72,No,No phone service,Fiber optic,Yes,No internet service,Yes,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),108.43,7457.24,No
+0269-ABCDE,Male,1,No,No,45,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),20.47,897.29,No
+0270-ABCDE,Female,0,Yes,No,59,Yes,No phone service,DSL,No internet service,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,57.05,3427.91,No
+0271-ABCDE,Female,1,Yes,No,4,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,One year,No,Electronic check,71.69,274.87,Yes
+0272-ABCDE,Female,0,No,No,67,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,Yes,No internet service,Two year,Yes,Mailed check,87.19,5692.59,No
+0273-ABCDE,Female,0,Yes,No,29,Yes,Yes,DSL,No internet service,Yes,No,No internet service,No,No,Month-to-month,Yes,Mailed check,47.19,1417.13,Yes
+0274-ABCDE,Male,0,No,Yes,29,Yes,No phone service,No,No internet service,Yes,No internet service,Yes,No internet service,No,One year,Yes,Electronic check,43.72,1278.4,Yes
+0275-ABCDE,Female,0,No,Yes,28,Yes,Yes,No,Yes,No,No internet service,No,No,No internet service,One year,Yes,Bank transfer (automatic),56.89,1524.35,No
+0276-ABCDE,Male,0,Yes,Yes,44,Yes,Yes,No,No internet service,No internet service,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),69.1,2902.88,Yes
+0277-ABCDE,Female,0,No,No,4,Yes,No,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,One year,Yes,Mailed check,115.02,439.89,Yes
+0278-ABCDE,Male,0,No,Yes,9,Yes,No phone service,Fiber optic,No,Yes,No,Yes,No internet service,No,One year,Yes,Electronic check,95.74,899.73,Yes
+0279-ABCDE,Female,0,No,Yes,5,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),61.79,319.76,No
+0280-ABCDE,Female,0,No,No,56,Yes,No phone service,No,No,No internet service,No,No internet service,No internet service,No internet service,One year,Yes,Mailed check,23.55,1364.29,No
+0281-ABCDE,Female,0,Yes,No,50,Yes,Yes,Fiber optic,No,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),35.19,1834.14,No
+0282-ABCDE,Female,0,Yes,No,15,Yes,Yes,DSL,Yes,No internet service,Yes,No internet service,Yes,No,Two year,Yes,Electronic check,64.5,968.01,Yes
+0283-ABCDE,Male,0,No,No,32,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No,No internet service,No internet service,Month-to-month,No,Credit card (automatic),101.01,3150.65,Yes
+0284-ABCDE,Female,0,Yes,Yes,28,No,No phone service,Fiber optic,Yes,No,No,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),56.83,1575.54,No
+0285-ABCDE,Male,1,No,No,22,No,No,No,No,No,Yes,No,Yes,No,Two year,No,Mailed check,72.93,1639.58,No
+0286-ABCDE,Male,0,No,No,17,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,Yes,Two year,Yes,Electronic check,108.96,1921.97,Yes
+0287-ABCDE,Male,0,No,Yes,59,Yes,No phone service,DSL,Yes,Yes,No internet service,Yes,Yes,No,Two year,No,Bank transfer (automatic),111.21,6518.8,No
+0288-ABCDE,Male,0,No,Yes,71,Yes,No phone service,No,No,Yes,No internet service,No,No internet service,Yes,Two year,No,Bank transfer (automatic),40.01,2850.76,No
+0289-ABCDE,Female,1,No,No,57,Yes,No,DSL,No,Yes,No internet service,No,Yes,Yes,Month-to-month,No,Mailed check,22.45,1334.9,No
+0290-ABCDE,Male,0,Yes,Yes,26,Yes,No phone service,No,Yes,Yes,No internet service,No,Yes,Yes,One year,Yes,Bank transfer (automatic),49.15,1227.74,No
+0291-ABCDE,Male,0,No,No,25,Yes,Yes,No,No,Yes,No,No,Yes,No internet service,One year,No,Bank transfer (automatic),88.97,2304.83,No
+0292-ABCDE,Male,0,Yes,No,10,No,No,Fiber optic,No,No internet service,No internet service,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),115.01,1110.92,Yes
+0293-ABCDE,Female,0,Yes,Yes,45,Yes,No,DSL,No,No,No,Yes,No internet service,No internet service,One year,No,Credit card (automatic),25.86,1161.82,No
+0294-ABCDE,Female,0,No,Yes,11,No,Yes,No,No,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Electronic check,20.91,223.53,Yes
+0295-ABCDE,Female,1,No,No,53,Yes,Yes,Fiber optic,No,No,No internet service,No,No,No internet service,One year,Yes,Credit card (automatic),108.18,5792.57,No
+0296-ABCDE,Female,1,No,No,72,Yes,Yes,No,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),94.31,6830.09,No
+0297-ABCDE,Male,0,No,No,68,Yes,No phone service,No,No internet service,No internet service,No,No internet service,No,No,Month-to-month,No,Electronic check,119.21,8009.01,Yes
+0298-ABCDE,Male,0,No,Yes,28,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,One year,No,Electronic check,58.47,1696.64,No
+0299-ABCDE,Female,1,Yes,No,65,Yes,No phone service,No,No,No internet service,Yes,No internet service,Yes,Yes,Month-to-month,No,Mailed check,60.44,3991.38,No
+0300-ABCDE,Male,0,No,No,49,Yes,No,No,Yes,No,No internet service,Yes,No,No,Month-to-month,Yes,Credit card (automatic),35.58,1781.99,No
+0301-ABCDE,Male,0,No,No,47,Yes,No,No,No internet service,Yes,No internet service,No,No,No,Month-to-month,Yes,Electronic check,29.82,1352.58,No
+0302-ABCDE,Male,0,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),77.03,4159.04,No
+0303-ABCDE,Female,0,Yes,No,54,Yes,No phone service,No,Yes,No,Yes,No,No internet service,Yes,Two year,No,Electronic check,55.16,2879.46,No
+0304-ABCDE,Female,0,No,Yes,60,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,26.19,1527.84,No
+0305-ABCDE,Male,0,Yes,No,57,No,Yes,Fiber optic,No,Yes,No internet service,No,No internet service,No,Two year,Yes,Mailed check,108.47,5952.82,No
+0306-ABCDE,Female,1,No,No,47,Yes,No phone service,DSL,No,No,No internet service,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),38.23,1786.09,No
+0307-ABCDE,Female,1,Yes,No,31,Yes,Yes,No,No,Yes,No internet service,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),94.36,3038.57,Yes
+0308-ABCDE,Female,0,Yes,No,46,Yes,No,DSL,No,Yes,Yes,No,Yes,No internet service,Month-to-month,No,Credit card (automatic),46.79,2099.06,Yes
+0309-ABCDE,Female,0,No,Yes,26,Yes,Yes,No,No,No,No internet service,No,No internet service,No internet service,One year,Yes,Bank transfer (automatic),100.92,2590.79,Yes
+0310-ABCDE,Female,1,Yes,Yes,5,Yes,No phone service,No,No,No internet service,No,No,Yes,No,Two year,No,Electronic check,30.08,155.6,No
+0311-ABCDE,Male,1,Yes,Yes,52,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),95.12,5004.51,No
+0312-ABCDE,Female,0,Yes,No,54,Yes,No,Fiber optic,No internet service,Yes,No internet service,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),28.01,1550.6,No
+0313-ABCDE,Male,1,Yes,No,33,Yes,No phone service,No,No,No,Yes,Yes,No,Yes,One year,Yes,Electronic check,63.59,2038.45,No
+0314-ABCDE,Male,1,Yes,Yes,50,Yes,No phone service,Fiber optic,No,Yes,No,No internet service,Yes,No,One year,No,Mailed check,92.87,4744.03,No
+0315-ABCDE,Female,0,Yes,Yes,38,Yes,No,DSL,No internet service,Yes,No,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),35.67,1318.54,No
+0316-ABCDE,Male,0,No,Yes,27,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),47.14,1334.8,No
+0317-ABCDE,Male,0,No,No,15,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No,No internet service,One year,No,Mailed check,106.21,1602.69,Yes
+0318-ABCDE,Male,0,Yes,No,61,Yes,Yes,DSL,No,No internet service,No,No internet service,No,No internet service,Two year,No,Electronic check,108.28,6734.3,No
+0319-ABCDE,Female,0,No,Yes,21,Yes,No,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No,One year,No,Credit card (automatic),22.58,456.09,No
+0320-ABCDE,Female,1,No,Yes,46,Yes,Yes,No,Yes,No,No,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,35.15,1576.58,Yes
+0321-ABCDE,Male,0,No,Yes,69,Yes,No,DSL,Yes,No internet service,No,No,No internet service,No,One year,Yes,Mailed check,29.98,1994.1,No
+0322-ABCDE,Female,0,Yes,No,6,Yes,Yes,No,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,36.33,215.59,No
+0323-ABCDE,Female,0,No,No,38,Yes,No,DSL,No,Yes,Yes,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),116.96,4348.54,No
+0324-ABCDE,Female,0,Yes,No,62,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),74.27,4711.99,No
+0325-ABCDE,Female,1,No,Yes,62,Yes,No,No,No internet service,Yes,No internet service,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),65.75,3916.99,No
+0326-ABCDE,Male,0,Yes,Yes,46,No,No phone service,Fiber optic,No internet service,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),118.42,5584.62,No
+0327-ABCDE,Male,0,Yes,No,13,Yes,Yes,No,Yes,No,Yes,No internet service,No internet service,No,Two year,Yes,Bank transfer (automatic),74.81,928.35,Yes
+0328-ABCDE,Female,0,No,Yes,3,Yes,No,Fiber optic,No internet service,No,No internet service,No internet service,Yes,No internet service,One year,No,Mailed check,85.43,248.65,Yes
+0329-ABCDE,Female,0,No,No,6,Yes,Yes,DSL,No,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),51.94,320.74,Yes
+0330-ABCDE,Male,0,Yes,Yes,8,Yes,Yes,No,Yes,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,56.98,466.91,Yes
+0331-ABCDE,Male,0,No,Yes,44,Yes,No,No,Yes,Yes,No internet service,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),78.63,3451.53,Yes
+0332-ABCDE,Female,0,No,Yes,33,Yes,Yes,DSL,No,No internet service,No,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),25.12,791.66,Yes
+0333-ABCDE,Male,0,No,Yes,50,Yes,No,DSL,No internet service,Yes,No internet service,No internet service,No internet service,No,Month-to-month,No,Bank transfer (automatic),44.1,2229.23,Yes
+0334-ABCDE,Female,0,Yes,No,11,Yes,No phone service,No,No,No,No,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,38.07,414.86,Yes
+0335-ABCDE,Female,0,Yes,Yes,28,Yes,Yes,DSL,No,No internet service,No,No,No,Yes,One year,No,Credit card (automatic),19.62,539.28,No
+0336-ABCDE,Male,1,No,No,70,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,72.76,5164.71,No
+0337-ABCDE,Male,0,No,No,41,Yes,Yes,DSL,No,No,No internet service,No internet service,Yes,Yes,Two year,Yes,Mailed check,75.23,3064.88,No
+0338-ABCDE,Female,0,No,No,16,Yes,Yes,DSL,No internet service,No,No,Yes,No internet service,Yes,One year,No,Bank transfer (automatic),57.16,877.28,No
+0339-ABCDE,Female,0,Yes,Yes,68,No,Yes,No,No internet service,No,No,No internet service,No internet service,No,Two year,Yes,Electronic check,45.41,3216.32,No
+0340-ABCDE,Male,0,Yes,No,48,Yes,No,Fiber optic,No,No,No internet service,No,Yes,Yes,Month-to-month,Yes,Electronic check,84.51,4169.45,Yes
+0341-ABCDE,Female,0,No,No,56,No,No phone service,DSL,No internet service,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),31.74,1698.59,Yes
+0342-ABCDE,Male,0,No,No,64,No,Yes,Fiber optic,No,No internet service,No internet service,No internet service,No,No internet service,Two year,Yes,Electronic check,70.9,4548.97,No
+0343-ABCDE,Female,1,No,Yes,59,Yes,No,Fiber optic,No internet service,Yes,Yes,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,96.34,5447.25,Yes
+0344-ABCDE,Male,0,No,Yes,62,Yes,Yes,Fiber optic,Yes,Yes,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,34.76,2227.81,No
+0345-ABCDE,Male,0,No,No,11,Yes,No,No,No internet service,Yes,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),94.83,1054.92,Yes
+0346-ABCDE,Male,0,No,Yes,18,Yes,Yes,DSL,No internet service,No,No internet service,Yes,No,No internet service,One year,Yes,Credit card (automatic),95.6,1664.44,No
+0347-ABCDE,Female,1,Yes,No,19,Yes,No phone service,No,No,Yes,No internet service,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),24.11,436.14,No
+0348-ABCDE,Female,0,No,No,55,Yes,No phone service,DSL,No internet service,No internet service,No internet service,Yes,No,No internet service,Two year,Yes,Electronic check,19.92,1044.28,No
+0349-ABCDE,Male,0,Yes,Yes,26,Yes,Yes,DSL,Yes,Yes,No internet service,No internet service,Yes,No,Two year,Yes,Mailed check,117.34,3053.09,Yes
+0350-ABCDE,Female,0,No,No,6,Yes,No,No,Yes,No,No,Yes,No,No,Two year,No,Electronic check,37.73,231.69,No
+0351-ABCDE,Male,0,No,Yes,4,No,Yes,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,No internet service,One year,No,Electronic check,101.86,391.99,Yes
+0352-ABCDE,Male,0,Yes,Yes,29,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),75.31,2123.12,Yes
+0353-ABCDE,Female,1,Yes,No,59,Yes,Yes,DSL,Yes,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Electronic check,44.98,2607.98,Yes
+0354-ABCDE,Female,0,Yes,Yes,17,Yes,No,No,No,No internet service,Yes,No internet service,Yes,No,Month-to-month,Yes,Electronic check,31.26,516.44,Yes
+0355-ABCDE,Male,0,Yes,Yes,43,No,No phone service,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,No internet service,Two year,Yes,Mailed check,68.66,2920.3,No
+0356-ABCDE,Female,0,No,No,66,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),59.55,3953.73,No
+0357-ABCDE,Female,0,Yes,No,34,Yes,No phone service,DSL,No internet service,No internet service,No,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),89.29,3092.0,No
+0358-ABCDE,Male,0,No,Yes,8,Yes,No phone service,DSL,No internet service,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,110.23,922.74,Yes
+0359-ABCDE,Male,0,Yes,Yes,13,Yes,Yes,No,Yes,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,100.14,1357.91,Yes
+0360-ABCDE,Female,0,No,No,8,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,45.99,370.5,Yes
+0361-ABCDE,Male,0,No,Yes,65,No,No,Fiber optic,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),107.65,7161.09,No
+0362-ABCDE,Male,0,No,Yes,43,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,103.01,4629.14,Yes
+0363-ABCDE,Female,0,No,Yes,39,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No internet service,One year,No,Bank transfer (automatic),112.77,4214.84,No
+0364-ABCDE,Male,0,No,Yes,59,Yes,No,Fiber optic,Yes,Yes,No internet service,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),64.78,3633.07,No
+0365-ABCDE,Male,0,No,Yes,44,Yes,No,No,Yes,Yes,No,Yes,No internet service,Yes,One year,No,Electronic check,96.39,4041.74,No
+0366-ABCDE,Female,0,Yes,Yes,9,Yes,Yes,No,No internet service,No internet service,Yes,No,No internet service,Yes,One year,Yes,Mailed check,78.35,709.62,No
+0367-ABCDE,Female,0,No,Yes,37,Yes,No,DSL,No,No internet service,Yes,No internet service,No,No,Month-to-month,No,Credit card (automatic),49.67,1886.09,No
+0368-ABCDE,Male,1,Yes,No,36,Yes,No phone service,DSL,No internet service,Yes,Yes,Yes,Yes,No,Two year,No,Electronic check,119.43,4242.33,No
+0369-ABCDE,Male,1,Yes,No,28,Yes,No,DSL,No internet service,Yes,No internet service,No internet service,Yes,No,One year,No,Bank transfer (automatic),21.91,616.26,No
+0370-ABCDE,Female,0,No,No,42,Yes,No phone service,No,No,No,No internet service,Yes,Yes,No,One year,No,Bank transfer (automatic),34.55,1453.47,No
+0371-ABCDE,Female,0,Yes,No,43,Yes,Yes,Fiber optic,No,No,No,No,No internet service,Yes,Two year,Yes,Electronic check,109.04,4498.72,No
+0372-ABCDE,Female,0,No,No,42,Yes,No phone service,DSL,Yes,No,Yes,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.18,997.44,No
+0373-ABCDE,Female,0,Yes,Yes,66,Yes,No,Fiber optic,No internet service,No internet service,No,No internet service,No internet service,No internet service,One year,No,Mailed check,108.46,6814.35,No
+0374-ABCDE,Male,0,No,Yes,55,Yes,Yes,DSL,No,No,No,No internet service,No internet service,No internet service,One year,Yes,Electronic check,90.95,4807.52,No
+0375-ABCDE,Female,0,Yes,Yes,72,No,No,DSL,No internet service,No internet service,Yes,No,No internet service,No,Two year,No,Mailed check,21.74,1614.09,No
+0376-ABCDE,Female,0,No,Yes,48,Yes,Yes,DSL,No internet service,No internet service,No,No internet service,No,Yes,One year,No,Bank transfer (automatic),61.79,3063.62,No
+0377-ABCDE,Male,0,No,No,22,Yes,Yes,DSL,No,No internet service,No internet service,No internet service,No internet service,Yes,One year,Yes,Electronic check,94.96,2152.2,No
+0378-ABCDE,Female,0,No,Yes,27,Yes,No,DSL,Yes,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),77.48,2139.41,Yes
+0379-ABCDE,Male,0,No,Yes,67,Yes,No,Fiber optic,No internet service,No,Yes,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,113.46,7824.79,No
+0380-ABCDE,Female,0,Yes,No,13,Yes,Yes,DSL,No,Yes,No internet service,Yes,Yes,No,Month-to-month,No,Mailed check,106.5,1408.17,Yes
+0381-ABCDE,Female,0,No,Yes,45,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No internet service,Yes,Month-to-month,Yes,Electronic check,51.93,2376.54,Yes
+0382-ABCDE,Female,0,Yes,Yes,10,Yes,No,No,No internet service,Yes,No,No internet service,No internet service,No,Two year,Yes,Electronic check,26.63,270.76,No
+0383-ABCDE,Male,0,Yes,No,9,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,114.31,1030.23,Yes
+0384-ABCDE,Male,0,Yes,Yes,54,Yes,No,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),70.76,3768.82,No
+0385-ABCDE,Female,0,No,Yes,27,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,25.59,706.83,No
+0386-ABCDE,Male,0,Yes,Yes,34,Yes,No,No,No,No,Yes,No,Yes,No,Two year,No,Mailed check,101.29,3374.52,Yes
+0387-ABCDE,Male,0,Yes,Yes,1,Yes,No phone service,No,No internet service,No,No,Yes,No,Yes,One year,No,Bank transfer (automatic),106.59,107.05,Yes
+0388-ABCDE,Male,0,Yes,Yes,32,Yes,No,Fiber optic,No internet service,Yes,No,No internet service,Yes,Yes,One year,No,Electronic check,83.22,2645.29,No
+0389-ABCDE,Male,0,No,No,71,Yes,Yes,DSL,No,Yes,No internet service,Yes,No internet service,No,One year,No,Credit card (automatic),63.65,4418.2,No
+0390-ABCDE,Male,0,No,No,67,Yes,No,DSL,Yes,Yes,No,No internet service,No internet service,No,One year,No,Electronic check,85.54,6003.23,No
+0391-ABCDE,Male,1,Yes,No,20,Yes,Yes,Fiber optic,No internet service,No internet service,No,No,No,No internet service,Month-to-month,No,Credit card (automatic),90.08,1758.14,Yes
+0392-ABCDE,Female,1,No,No,35,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),109.09,3745.34,Yes
+0393-ABCDE,Female,0,No,No,17,Yes,No,Fiber optic,No,No internet service,Yes,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),115.5,1897.05,Yes
+0394-ABCDE,Male,0,Yes,No,18,Yes,Yes,DSL,Yes,No,No,No internet service,No,Yes,Two year,No,Mailed check,70.46,1309.24,Yes
+0395-ABCDE,Female,0,Yes,Yes,45,Yes,Yes,No,Yes,Yes,Yes,No internet service,No internet service,No,One year,No,Mailed check,99.45,4514.0,Yes
+0396-ABCDE,Female,0,No,No,53,Yes,No phone service,DSL,Yes,No,Yes,Yes,No,No internet service,Month-to-month,No,Mailed check,116.38,6237.86,Yes
+0397-ABCDE,Female,1,Yes,No,68,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,No,No,One year,Yes,Mailed check,33.43,2346.11,No
+0398-ABCDE,Female,0,No,Yes,65,Yes,No phone service,Fiber optic,No,No internet service,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),19.86,1270.62,No
+0399-ABCDE,Male,0,No,Yes,1,Yes,No phone service,No,No,No,No internet service,No,No,Yes,One year,No,Credit card (automatic),106.63,103.36,Yes
+0400-ABCDE,Female,0,No,No,58,No,Yes,Fiber optic,No,Yes,Yes,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,37.92,2133.03,No
+0401-ABCDE,Female,0,No,Yes,26,Yes,No,DSL,Yes,No,No,No internet service,No internet service,No,One year,No,Credit card (automatic),22.33,594.09,No
+0402-ABCDE,Male,0,No,No,20,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),34.33,694.44,No
+0403-ABCDE,Male,0,No,Yes,10,Yes,Yes,No,No internet service,No,No,No,Yes,Yes,Two year,No,Electronic check,57.18,555.01,No
+0404-ABCDE,Female,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,No internet service,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),40.37,2297.29,No
+0405-ABCDE,Female,1,Yes,Yes,41,Yes,No,No,Yes,No,No internet service,Yes,Yes,No,Two year,No,Mailed check,49.14,1938.32,No
+0406-ABCDE,Female,1,No,Yes,5,Yes,No phone service,DSL,Yes,No,Yes,Yes,No internet service,No,Two year,No,Electronic check,117.48,594.91,Yes
+0407-ABCDE,Female,0,No,No,65,Yes,Yes,No,Yes,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),89.85,5548.31,Yes
+0408-ABCDE,Female,0,No,No,17,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),90.64,1466.66,Yes
+0409-ABCDE,Female,0,Yes,No,22,Yes,No phone service,No,No,No internet service,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),27.66,601.8,No
+0410-ABCDE,Male,0,No,No,41,Yes,Yes,Fiber optic,No internet service,No internet service,No,No,Yes,No internet service,One year,No,Bank transfer (automatic),92.67,3872.17,No
+0411-ABCDE,Female,0,Yes,No,68,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,93.41,6475.77,No
+0412-ABCDE,Female,0,No,Yes,69,Yes,Yes,DSL,No internet service,Yes,Yes,No,No,No internet service,One year,No,Bank transfer (automatic),85.29,5843.88,No
+0413-ABCDE,Male,0,No,No,11,Yes,Yes,DSL,Yes,No,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,41.3,462.98,Yes
+0414-ABCDE,Male,0,Yes,No,56,Yes,No phone service,DSL,Yes,Yes,No internet service,No internet service,No,Yes,One year,No,Credit card (automatic),61.15,3431.62,No
+0415-ABCDE,Male,0,Yes,Yes,51,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No,No,Two year,Yes,Electronic check,104.32,5574.06,No
+0416-ABCDE,Male,0,No,Yes,21,Yes,Yes,No,No internet service,Yes,Yes,No,No,No,Two year,No,Electronic check,86.36,1752.35,Yes
+0417-ABCDE,Female,1,No,No,26,Yes,No,Fiber optic,No,No internet service,No,No internet service,No,No,Two year,Yes,Bank transfer (automatic),92.74,2435.51,No
+0418-ABCDE,Female,0,No,Yes,19,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No internet service,No,Two year,Yes,Mailed check,77.91,1478.99,No
+0419-ABCDE,Female,0,Yes,Yes,60,Yes,No phone service,DSL,No internet service,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),63.86,3714.53,No
+0420-ABCDE,Female,1,Yes,No,71,Yes,No,No,No,Yes,Yes,No internet service,No internet service,No internet service,One year,No,Electronic check,95.42,6944.18,No
+0421-ABCDE,Female,0,Yes,Yes,47,Yes,Yes,DSL,No,No,Yes,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),24.93,1145.41,No
+0422-ABCDE,Female,1,Yes,Yes,71,Yes,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),86.66,6080.08,Yes
+0423-ABCDE,Male,0,Yes,No,26,Yes,No phone service,DSL,No internet service,No,No,No internet service,Yes,No,Two year,No,Mailed check,119.71,3073.5,Yes
+0424-ABCDE,Female,0,Yes,No,40,Yes,Yes,No,No,No internet service,No internet service,No,Yes,No internet service,One year,Yes,Bank transfer (automatic),97.58,3803.36,No
+0425-ABCDE,Male,0,No,Yes,5,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,Yes,Two year,No,Credit card (automatic),47.64,236.55,No
+0426-ABCDE,Male,0,No,Yes,21,Yes,No phone service,DSL,Yes,No internet service,No internet service,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),46.34,970.55,No
+0427-ABCDE,Female,0,Yes,No,4,Yes,Yes,No,Yes,No internet service,No internet service,No internet service,No internet service,No,One year,Yes,Credit card (automatic),86.06,352.65,Yes
+0428-ABCDE,Male,0,No,Yes,23,Yes,No phone service,DSL,No internet service,No,Yes,No internet service,No internet service,Yes,Two year,No,Electronic check,109.38,2582.42,Yes
+0429-ABCDE,Female,0,No,Yes,15,Yes,Yes,No,Yes,No internet service,No,No,No,No internet service,One year,No,Electronic check,76.95,1114.84,Yes
+0430-ABCDE,Male,0,Yes,Yes,8,Yes,Yes,DSL,No internet service,No internet service,No,No internet service,No,No internet service,Two year,No,Bank transfer (automatic),71.8,579.73,Yes
+0431-ABCDE,Female,1,No,No,41,No,No,No,No internet service,No internet service,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,34.36,1464.57,Yes
+0432-ABCDE,Male,1,Yes,Yes,19,Yes,Yes,DSL,Yes,No internet service,Yes,No,Yes,No internet service,Two year,Yes,Credit card (automatic),90.98,1660.99,No
+0433-ABCDE,Female,0,Yes,Yes,46,Yes,No,Fiber optic,No,Yes,No,No internet service,No,Yes,One year,Yes,Electronic check,89.63,4111.81,No
+0434-ABCDE,Female,0,No,No,28,Yes,Yes,DSL,No internet service,No,Yes,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,116.63,3347.4,Yes
+0435-ABCDE,Female,0,Yes,Yes,68,Yes,No phone service,No,Yes,No,Yes,No internet service,No internet service,No,One year,Yes,Mailed check,48.62,3343.02,No
+0436-ABCDE,Female,0,Yes,Yes,15,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,No,No internet service,Two year,Yes,Bank transfer (automatic),95.16,1370.39,No
+0437-ABCDE,Female,1,Yes,No,37,Yes,Yes,Fiber optic,No,Yes,No,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),62.27,2280.17,Yes
+0438-ABCDE,Male,0,Yes,No,1,Yes,Yes,DSL,No,No,No internet service,No internet service,No,No,One year,Yes,Bank transfer (automatic),74.96,75.01,Yes
+0439-ABCDE,Male,0,Yes,No,67,Yes,No phone service,No,Yes,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),101.28,7122.23,No
+0440-ABCDE,Male,0,Yes,No,24,Yes,Yes,No,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),40.64,944.01,Yes
+0441-ABCDE,Female,0,Yes,Yes,27,Yes,No,Fiber optic,No internet service,No internet service,No,No,Yes,No internet service,One year,No,Credit card (automatic),52.97,1499.19,No
+0442-ABCDE,Male,0,Yes,Yes,40,Yes,No,No,No internet service,No,Yes,Yes,No,No internet service,Month-to-month,No,Mailed check,96.88,3827.21,Yes
+0443-ABCDE,Female,1,No,No,63,Yes,No,DSL,No internet service,No,No,No,Yes,No,One year,No,Credit card (automatic),76.19,4656.12,No
+0444-ABCDE,Female,0,No,No,61,Yes,No,DSL,Yes,Yes,Yes,No internet service,No,Yes,Month-to-month,No,Electronic check,27.43,1658.86,No
+0445-ABCDE,Male,0,No,Yes,36,Yes,No,DSL,No,No,No,No,No internet service,No,Month-to-month,No,Mailed check,61.88,2253.07,Yes
+0446-ABCDE,Male,0,Yes,No,24,No,Yes,No,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),77.84,1814.64,Yes
+0447-ABCDE,Female,1,Yes,Yes,24,Yes,Yes,DSL,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),110.77,2603.03,No
+0448-ABCDE,Male,1,No,No,4,Yes,No,DSL,No internet service,No,Yes,No,No internet service,No,Two year,No,Credit card (automatic),37.23,154.2,No
+0449-ABCDE,Female,0,No,Yes,67,Yes,Yes,DSL,No,No internet service,No internet service,No internet service,No,No,One year,Yes,Mailed check,100.21,7049.11,No
+0450-ABCDE,Female,0,No,No,34,Yes,Yes,Fiber optic,No internet service,No,No internet service,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),31.32,1045.52,Yes
+0451-ABCDE,Female,0,Yes,No,57,Yes,No,No,Yes,No,No,No,No internet service,No internet service,One year,No,Credit card (automatic),42.71,2348.99,No
+0452-ABCDE,Female,0,No,Yes,49,Yes,Yes,No,Yes,No,Yes,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),42.82,2159.69,No
+0453-ABCDE,Female,1,No,No,53,Yes,Yes,No,No,Yes,No,No internet service,No internet service,No internet service,Two year,No,Mailed check,107.5,5754.73,No
+0454-ABCDE,Male,0,Yes,Yes,23,Yes,Yes,Fiber optic,Yes,No internet service,No,No,No,Yes,Two year,Yes,Bank transfer (automatic),38.3,845.7,No
+0455-ABCDE,Male,0,No,Yes,69,Yes,No,No,Yes,Yes,No,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,98.27,7083.57,No
+0456-ABCDE,Female,0,Yes,Yes,53,Yes,Yes,Fiber optic,Yes,No,Yes,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),65.1,3304.71,No
+0457-ABCDE,Female,0,Yes,Yes,62,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,119.91,7527.62,Yes
+0458-ABCDE,Male,0,Yes,Yes,41,Yes,No phone service,No,No internet service,No internet service,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),103.59,4214.88,No
+0459-ABCDE,Male,0,No,No,57,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),93.45,5356.81,Yes
+0460-ABCDE,Female,0,No,No,60,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,106.81,6224.81,No
+0461-ABCDE,Male,0,Yes,Yes,54,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),82.67,4548.16,Yes
+0462-ABCDE,Female,0,No,No,70,Yes,No phone service,No,Yes,No internet service,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),104.05,7618.34,No
+0463-ABCDE,Male,0,No,Yes,57,Yes,No phone service,Fiber optic,No,Yes,No internet service,No,Yes,No,One year,No,Bank transfer (automatic),44.63,2533.33,No
+0464-ABCDE,Female,0,No,No,10,Yes,No phone service,No,Yes,No internet service,No,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),27.97,280.34,Yes
+0465-ABCDE,Male,0,No,No,40,Yes,No,Fiber optic,No,No,No internet service,No internet service,Yes,No,One year,Yes,Mailed check,80.83,3149.08,No
+0466-ABCDE,Female,0,Yes,No,7,No,No,No,No,No,No internet service,No,No,No,Two year,No,Mailed check,62.34,453.48,No
+0467-ABCDE,Male,0,No,No,38,Yes,Yes,DSL,Yes,Yes,No,No internet service,Yes,No internet service,One year,No,Electronic check,61.5,2447.11,No
+0468-ABCDE,Male,0,Yes,Yes,61,Yes,No,DSL,Yes,No,No,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),71.73,4500.8,No
+0469-ABCDE,Female,0,Yes,Yes,3,Yes,No phone service,No,No internet service,No,Yes,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),54.86,165.28,No
+0470-ABCDE,Male,0,No,No,51,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,No,Yes,Two year,Yes,Bank transfer (automatic),81.86,4365.57,No
+0471-ABCDE,Female,1,Yes,No,47,Yes,No,DSL,Yes,No,No internet service,No internet service,No,Yes,One year,Yes,Mailed check,21.12,958.28,No
+0472-ABCDE,Male,0,No,Yes,68,Yes,No,Fiber optic,No internet service,Yes,No internet service,No internet service,No,No internet service,One year,Yes,Electronic check,116.93,7934.14,No
+0473-ABCDE,Female,0,No,No,38,Yes,No,No,Yes,No internet service,No,No,No,No,Month-to-month,Yes,Credit card (automatic),112.32,4284.21,Yes
+0474-ABCDE,Male,0,Yes,Yes,36,Yes,Yes,No,Yes,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),113.4,4079.1,Yes
+0475-ABCDE,Female,0,Yes,Yes,41,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,Yes,No internet service,One year,Yes,Electronic check,55.23,2332.91,No
+0476-ABCDE,Male,0,Yes,Yes,69,Yes,Yes,No,Yes,Yes,No internet service,Yes,No internet service,Yes,One year,Yes,Credit card (automatic),72.25,5070.2,No
+0477-ABCDE,Female,0,Yes,No,13,No,Yes,DSL,Yes,Yes,Yes,No internet service,No,Yes,One year,Yes,Electronic check,115.32,1443.19,Yes
+0478-ABCDE,Male,0,No,Yes,58,Yes,No phone service,Fiber optic,No internet service,No,No internet service,Yes,No,Yes,One year,No,Credit card (automatic),110.04,6284.32,No
+0479-ABCDE,Female,0,No,No,50,Yes,No phone service,DSL,No internet service,No,Yes,No,Yes,No,Two year,No,Electronic check,98.6,4850.66,No
+0480-ABCDE,Female,0,No,Yes,30,Yes,No,DSL,No,No,Yes,Yes,No,No internet service,Two year,Yes,Credit card (automatic),59.55,1798.23,No
+0481-ABCDE,Female,0,Yes,No,62,Yes,No,Fiber optic,Yes,No,No,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),75.56,4587.02,No
+0482-ABCDE,Male,0,Yes,No,25,No,Yes,DSL,No,No,Yes,Yes,No internet service,No,One year,No,Electronic check,98.88,2377.39,Yes
+0483-ABCDE,Female,0,Yes,No,27,Yes,No,DSL,No,Yes,No,No,No,No internet service,Two year,No,Credit card (automatic),45.85,1256.98,No
+0484-ABCDE,Male,0,No,Yes,51,Yes,No,No,No internet service,Yes,No internet service,No,No internet service,No internet service,Two year,No,Credit card (automatic),81.9,4323.52,No
+0485-ABCDE,Female,0,Yes,Yes,57,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),102.45,6091.69,Yes
+0486-ABCDE,Male,0,No,No,47,Yes,No phone service,DSL,Yes,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Electronic check,90.16,4437.78,Yes
+0487-ABCDE,Female,0,Yes,No,39,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,No internet service,Yes,Two year,Yes,Electronic check,66.91,2682.85,No
+0488-ABCDE,Male,0,No,No,16,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No,No,No,Two year,Yes,Credit card (automatic),77.63,1197.33,Yes
+0489-ABCDE,Male,1,No,Yes,22,Yes,No,DSL,No internet service,Yes,No internet service,Yes,No,Yes,Two year,No,Credit card (automatic),118.84,2706.8,No
+0490-ABCDE,Female,0,Yes,Yes,54,Yes,No phone service,No,Yes,Yes,No,No,No internet service,No internet service,One year,No,Electronic check,79.4,4244.71,No
+0491-ABCDE,Male,0,Yes,Yes,21,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),98.13,2108.11,Yes
+0492-ABCDE,Male,0,No,Yes,72,No,No phone service,DSL,Yes,No,No internet service,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),92.11,6652.66,No
+0493-ABCDE,Female,0,No,No,16,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),89.55,1479.88,Yes
+0494-ABCDE,Male,0,Yes,No,59,Yes,No,No,Yes,No internet service,Yes,No internet service,No internet service,No,Two year,No,Electronic check,91.07,5333.1,No
+0495-ABCDE,Male,0,Yes,Yes,31,Yes,Yes,No,No,No,Yes,Yes,No internet service,No internet service,One year,No,Credit card (automatic),64.35,1907.43,No
+0496-ABCDE,Male,1,No,Yes,42,Yes,No phone service,No,No,Yes,No internet service,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),66.36,2802.96,No
+0497-ABCDE,Female,0,Yes,No,32,Yes,No,DSL,Yes,No internet service,No,Yes,No,No internet service,Month-to-month,Yes,Electronic check,65.72,2033.91,Yes
+0498-ABCDE,Male,1,No,Yes,59,Yes,No,DSL,Yes,No internet service,No internet service,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),21.39,1320.76,No
+0499-ABCDE,Female,0,No,Yes,34,No,No phone service,No,No,No,Yes,No,No,No,Two year,No,Mailed check,42.59,1451.96,No
+0500-ABCDE,Male,0,Yes,Yes,9,Yes,Yes,DSL,No internet service,No internet service,No,No,No,Yes,Two year,Yes,Electronic check,33.77,305.56,Yes
+0501-ABCDE,Male,0,Yes,Yes,11,Yes,No phone service,No,Yes,No,No,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,108.42,1241.19,Yes
+0502-ABCDE,Male,1,Yes,Yes,10,Yes,No,DSL,No,No,Yes,Yes,No internet service,No,Month-to-month,No,Electronic check,46.05,466.24,Yes
+0503-ABCDE,Female,0,Yes,Yes,17,Yes,Yes,No,No,No internet service,No internet service,Yes,No,No internet service,One year,No,Electronic check,32.12,535.27,No
+0504-ABCDE,Male,1,Yes,No,68,Yes,No,Fiber optic,No internet service,No,No internet service,No,No internet service,No,Month-to-month,No,Credit card (automatic),30.22,2013.06,No
+0505-ABCDE,Male,0,No,Yes,48,Yes,No phone service,No,Yes,No,No internet service,Yes,No internet service,No,One year,No,Mailed check,89.4,4291.88,No
+0506-ABCDE,Female,0,No,Yes,52,Yes,Yes,No,No,No,Yes,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,18.62,1003.74,No
+0507-ABCDE,Male,1,Yes,No,25,Yes,No,DSL,No internet service,No,No,Yes,No internet service,No,Month-to-month,No,Mailed check,66.07,1700.43,Yes
+0508-ABCDE,Female,0,Yes,No,21,Yes,No,DSL,No,No internet service,Yes,No,No,No internet service,Month-to-month,No,Electronic check,30.12,661.79,Yes
+0509-ABCDE,Female,0,Yes,No,65,Yes,No,DSL,Yes,Yes,No internet service,No internet service,No internet service,No,Two year,No,Mailed check,104.67,6512.28,No
+0510-ABCDE,Male,0,No,Yes,63,Yes,No phone service,DSL,No internet service,Yes,Yes,No internet service,Yes,No internet service,One year,Yes,Mailed check,115.76,7123.92,No
+0511-ABCDE,Female,1,Yes,No,51,Yes,Yes,DSL,No,No,No,No,No internet service,Yes,One year,No,Credit card (automatic),115.79,5657.39,No
+0512-ABCDE,Male,1,Yes,Yes,36,Yes,No phone service,DSL,No internet service,No,Yes,Yes,Yes,No internet service,Two year,Yes,Bank transfer (automatic),63.08,2327.9,No
+0513-ABCDE,Female,0,No,Yes,66,Yes,No phone service,Fiber optic,Yes,No,No internet service,No,No internet service,No,Two year,Yes,Bank transfer (automatic),83.74,5328.33,No
+0514-ABCDE,Female,0,No,Yes,15,Yes,No phone service,No,No internet service,Yes,No,Yes,Yes,No internet service,Two year,No,Mailed check,79.17,1140.03,Yes
+0515-ABCDE,Male,1,Yes,No,39,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No internet service,One year,Yes,Mailed check,53.7,2107.22,No
+0516-ABCDE,Female,0,Yes,No,70,Yes,No phone service,No,No,No internet service,Yes,No internet service,No internet service,No,Month-to-month,No,Mailed check,63.29,4391.09,No
+0517-ABCDE,Female,0,Yes,No,1,No,No phone service,Fiber optic,Yes,No internet service,No,No,No internet service,No internet service,Two year,No,Mailed check,24.56,25.09,No
+0518-ABCDE,Female,1,No,No,23,Yes,No phone service,No,No,No internet service,No,No internet service,No internet service,No,Two year,No,Bank transfer (automatic),99.16,2277.72,No
+0519-ABCDE,Female,0,Yes,No,39,Yes,No phone service,Fiber optic,No,Yes,No internet service,No,Yes,Yes,Two year,No,Credit card (automatic),42.56,1647.45,No
+0520-ABCDE,Female,0,Yes,Yes,57,Yes,No,Fiber optic,Yes,No,No,No,No,No internet service,Month-to-month,Yes,Electronic check,64.97,3675.7,No
+0521-ABCDE,Male,0,Yes,Yes,34,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,No,Yes,Month-to-month,Yes,Mailed check,67.02,2363.42,Yes
+0522-ABCDE,Female,1,No,Yes,41,Yes,No,No,No internet service,No,Yes,No,No internet service,No internet service,Two year,No,Mailed check,75.19,3050.49,No
+0523-ABCDE,Male,1,No,Yes,13,Yes,No phone service,Fiber optic,No,Yes,No internet service,No,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),101.42,1296.49,Yes
+0524-ABCDE,Female,1,Yes,No,70,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,88.57,6099.79,No
+0525-ABCDE,Male,0,Yes,No,6,Yes,No,No,No internet service,Yes,No,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),85.63,498.19,Yes
+0526-ABCDE,Male,1,No,Yes,52,No,No,DSL,No internet service,Yes,Yes,No,Yes,No internet service,One year,No,Credit card (automatic),71.73,3864.5,No
+0527-ABCDE,Female,1,No,No,3,Yes,No,DSL,No,No internet service,No,No internet service,No internet service,Yes,One year,Yes,Mailed check,27.79,80.42,No
+0528-ABCDE,Female,0,No,No,63,Yes,No,Fiber optic,No,Yes,Yes,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),59.0,3868.88,Yes
+0529-ABCDE,Female,1,No,Yes,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Mailed check,115.65,5544.14,No
+0530-ABCDE,Male,0,No,Yes,47,Yes,No phone service,No,No internet service,Yes,Yes,Yes,No,No internet service,One year,No,Mailed check,119.55,5843.28,No
+0531-ABCDE,Female,0,No,No,55,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),92.51,5236.02,No
+0532-ABCDE,Male,0,No,No,64,Yes,Yes,Fiber optic,No,No,No internet service,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),41.21,2659.06,No
+0533-ABCDE,Male,0,No,Yes,65,Yes,No,No,No internet service,No,Yes,No,No internet service,Yes,Month-to-month,No,Electronic check,28.39,1876.62,Yes
+0534-ABCDE,Male,0,No,Yes,67,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No,No,Month-to-month,Yes,Mailed check,60.31,3970.4,No
+0535-ABCDE,Female,0,Yes,Yes,15,Yes,No,Fiber optic,Yes,No internet service,No,Yes,No,No,Month-to-month,No,Credit card (automatic),105.37,1592.28,Yes
+0536-ABCDE,Female,0,Yes,No,32,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No internet service,One year,No,Mailed check,91.63,2871.29,No
+0537-ABCDE,Male,0,Yes,Yes,68,Yes,No phone service,No,Yes,No,No internet service,Yes,No,Yes,Two year,No,Electronic check,108.16,7283.0,No
+0538-ABCDE,Male,0,No,Yes,18,Yes,Yes,DSL,Yes,No internet service,No,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),80.81,1493.08,Yes
+0539-ABCDE,Female,0,Yes,No,43,Yes,No phone service,No,No internet service,No,No,No,No internet service,No,One year,No,Credit card (automatic),31.29,1311.02,No
+0540-ABCDE,Male,0,No,No,35,Yes,No phone service,DSL,Yes,No internet service,Yes,No internet service,No internet service,Yes,Two year,No,Electronic check,29.71,1075.08,No
+0541-ABCDE,Female,0,No,No,58,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,Yes,No internet service,Two year,Yes,Mailed check,22.9,1311.71,No
+0542-ABCDE,Male,0,Yes,No,33,Yes,No,No,Yes,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,75.84,2510.77,Yes
+0543-ABCDE,Female,0,No,No,14,Yes,Yes,No,No,Yes,No internet service,No,No,Yes,Month-to-month,Yes,Credit card (automatic),42.77,625.24,Yes
+0544-ABCDE,Male,1,Yes,Yes,34,No,Yes,No,No,No internet service,No internet service,Yes,No,No internet service,One year,Yes,Bank transfer (automatic),92.91,3216.2,No
+0545-ABCDE,Female,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,88.0,5446.16,Yes
+0546-ABCDE,Male,0,Yes,No,4,Yes,No phone service,DSL,No,No internet service,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),50.45,206.07,Yes
+0547-ABCDE,Female,0,No,No,59,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,Yes,Two year,Yes,Bank transfer (automatic),36.03,2214.65,No
+0548-ABCDE,Female,1,Yes,No,29,Yes,No phone service,Fiber optic,Yes,No,No internet service,Yes,No,No,Two year,Yes,Electronic check,28.44,804.02,No
+0549-ABCDE,Male,0,No,No,6,Yes,Yes,No,No internet service,Yes,Yes,No,Yes,No internet service,Two year,No,Electronic check,93.21,565.59,Yes
+0550-ABCDE,Male,1,Yes,No,49,Yes,No,DSL,Yes,Yes,No internet service,No internet service,Yes,No,Two year,Yes,Credit card (automatic),63.94,3101.85,No
+0551-ABCDE,Female,0,Yes,Yes,40,Yes,No,Fiber optic,No,Yes,Yes,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),51.0,1940.42,No
+0552-ABCDE,Male,1,Yes,Yes,65,Yes,No,No,No internet service,No,No,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),105.38,6593.04,Yes
+0553-ABCDE,Female,0,No,Yes,69,Yes,Yes,Fiber optic,No,No,No,No,No,No internet service,One year,Yes,Credit card (automatic),78.55,5325.1,No
+0554-ABCDE,Male,1,No,Yes,27,No,No,Fiber optic,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),70.84,1925.11,No
+0555-ABCDE,Female,0,No,No,6,Yes,No,No,Yes,Yes,Yes,No internet service,No internet service,No internet service,One year,Yes,Mailed check,93.82,584.39,Yes
+0556-ABCDE,Female,0,Yes,Yes,13,Yes,No phone service,No,No internet service,Yes,No internet service,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),101.19,1353.77,No
+0557-ABCDE,Female,0,Yes,No,64,Yes,No phone service,DSL,No,Yes,No,Yes,No,No internet service,One year,Yes,Credit card (automatic),87.98,5660.75,No
+0558-ABCDE,Female,0,No,No,62,Yes,No,Fiber optic,Yes,No,No,Yes,No,No internet service,Two year,Yes,Credit card (automatic),62.88,3732.43,No
+0559-ABCDE,Female,0,No,No,19,Yes,No,No,Yes,No,No,No,No,Yes,Two year,No,Bank transfer (automatic),56.69,1054.05,No
+0560-ABCDE,Female,1,No,Yes,43,Yes,No phone service,No,Yes,No internet service,No internet service,No,Yes,No internet service,Two year,No,Electronic check,96.71,4103.1,No
+0561-ABCDE,Male,1,No,No,20,Yes,No phone service,DSL,No,No,No internet service,No,No internet service,No,One year,No,Bank transfer (automatic),70.83,1433.84,No
+0562-ABCDE,Male,0,No,Yes,68,Yes,No phone service,DSL,Yes,No internet service,Yes,No internet service,No,Yes,Two year,Yes,Bank transfer (automatic),89.85,5843.98,No
+0563-ABCDE,Male,0,No,Yes,44,Yes,Yes,No,No internet service,Yes,No,No internet service,No internet service,No,Two year,No,Electronic check,108.82,4802.54,No
+0564-ABCDE,Female,0,Yes,No,23,Yes,Yes,DSL,No internet service,No,No internet service,Yes,No internet service,No,Two year,No,Mailed check,111.42,2665.54,Yes
+0565-ABCDE,Female,0,No,No,2,Yes,No phone service,No,No,Yes,Yes,No,Yes,No,Two year,No,Electronic check,46.33,94.56,Yes
+0566-ABCDE,Female,0,Yes,No,22,Yes,No,Fiber optic,No internet service,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),37.16,841.81,Yes
+0567-ABCDE,Female,0,Yes,Yes,57,Yes,No phone service,DSL,Yes,Yes,No internet service,No internet service,Yes,Yes,One year,No,Electronic check,44.65,2591.29,No
+0568-ABCDE,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,One year,No,Credit card (automatic),94.64,6614.15,No
+0569-ABCDE,Male,0,No,Yes,7,Yes,No,Fiber optic,Yes,No,Yes,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),55.75,375.05,Yes
+0570-ABCDE,Female,0,Yes,No,56,No,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),35.69,2064.49,No
+0571-ABCDE,Male,0,No,No,67,Yes,No,No,No,No internet service,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),28.04,1915.41,No
+0572-ABCDE,Male,0,No,Yes,16,Yes,Yes,Fiber optic,Yes,No,No internet service,No,No internet service,No,Two year,Yes,Mailed check,51.39,828.41,No
+0573-ABCDE,Female,0,Yes,Yes,51,Yes,No,Fiber optic,No internet service,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),31.89,1575.86,No
+0574-ABCDE,Male,1,Yes,Yes,72,Yes,No,Fiber optic,No internet service,No,Yes,No internet service,No,Yes,One year,No,Bank transfer (automatic),33.95,2469.66,No
+0575-ABCDE,Female,0,Yes,Yes,12,Yes,No,No,No,No internet service,No internet service,Yes,No internet service,Yes,One year,No,Credit card (automatic),87.76,1003.76,Yes
+0576-ABCDE,Male,0,No,Yes,53,No,No,Fiber optic,Yes,Yes,No internet service,Yes,Yes,No,One year,No,Mailed check,20.01,1020.11,No
+0577-ABCDE,Female,0,Yes,Yes,5,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),29.99,147.13,No
+0578-ABCDE,Female,0,No,No,27,Yes,Yes,DSL,No,Yes,No internet service,No internet service,No,Yes,Month-to-month,Yes,Mailed check,104.13,2795.69,Yes
+0579-ABCDE,Female,1,Yes,No,12,Yes,No,No,No internet service,No internet service,No,Yes,No internet service,Yes,One year,Yes,Mailed check,104.18,1202.72,Yes
+0580-ABCDE,Female,0,Yes,Yes,17,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,51.58,843.53,No
+0581-ABCDE,Male,0,Yes,No,6,Yes,Yes,DSL,No internet service,No,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),26.97,165.48,No
+0582-ABCDE,Female,0,No,Yes,5,No,No,No,No internet service,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,89.91,452.68,Yes
+0583-ABCDE,Female,1,No,No,57,Yes,No,No,No,No,Yes,Yes,Yes,No,Two year,No,Electronic check,54.73,3130.14,No
+0584-ABCDE,Female,1,Yes,No,28,Yes,No,No,No,Yes,No,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),22.64,630.9,Yes
+0585-ABCDE,Male,0,Yes,Yes,69,Yes,No phone service,No,No internet service,Yes,Yes,No,No,No,Two year,Yes,Credit card (automatic),34.1,2465.03,No
+0586-ABCDE,Female,0,Yes,Yes,59,Yes,No,No,Yes,No internet service,No internet service,No internet service,No,Yes,One year,No,Bank transfer (automatic),32.0,1803.0,No
+0587-ABCDE,Male,0,No,Yes,33,Yes,No phone service,No,Yes,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),78.09,2494.67,Yes
+0588-ABCDE,Female,1,Yes,No,62,Yes,No,Fiber optic,No,No internet service,No,No,No internet service,Yes,Two year,Yes,Mailed check,109.61,6896.06,No
+0589-ABCDE,Male,0,No,Yes,50,Yes,Yes,Fiber optic,No internet service,Yes,No,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),98.89,4764.7,No
+0590-ABCDE,Male,1,Yes,No,19,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,Yes,No,Two year,Yes,Electronic check,73.74,1413.58,Yes
+0591-ABCDE,Female,0,Yes,Yes,69,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),61.06,4241.69,Yes
+0592-ABCDE,Male,0,Yes,No,66,Yes,No,DSL,No,No,No internet service,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),81.11,5605.4,Yes
+0593-ABCDE,Female,0,Yes,No,47,Yes,No,Fiber optic,No internet service,No,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),63.27,3087.7,Yes
+0594-ABCDE,Female,0,Yes,Yes,39,Yes,No phone service,No,Yes,Yes,No internet service,No,No,No,Month-to-month,Yes,Credit card (automatic),43.1,1755.79,Yes
+0595-ABCDE,Female,0,Yes,No,68,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,No,Yes,One year,No,Mailed check,87.28,5705.71,No
+0596-ABCDE,Male,0,No,No,33,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No internet service,No internet service,Yes,Two year,Yes,Mailed check,107.07,3663.39,No
+0597-ABCDE,Male,0,Yes,Yes,13,Yes,No,No,Yes,No internet service,Yes,Yes,No,No internet service,One year,Yes,Mailed check,56.03,701.37,Yes
+0598-ABCDE,Female,0,No,No,54,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,103.84,5681.9,Yes
+0599-ABCDE,Female,0,Yes,Yes,7,Yes,Yes,Fiber optic,No,No internet service,No internet service,No,No internet service,No,Two year,Yes,Credit card (automatic),61.97,443.34,No
+0600-ABCDE,Male,0,Yes,Yes,14,Yes,No,Fiber optic,No internet service,Yes,No,No internet service,Yes,No,Month-to-month,No,Electronic check,58.94,797.17,Yes
+0601-ABCDE,Female,1,No,Yes,19,Yes,Yes,DSL,No,No,No internet service,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),20.89,402.18,No
+0602-ABCDE,Female,1,Yes,Yes,54,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),88.92,4586.79,No
+0603-ABCDE,Female,1,No,No,20,Yes,No phone service,No,Yes,No,Yes,No,No internet service,No internet service,One year,No,Mailed check,100.37,1965.9,No
+0604-ABCDE,Male,1,No,No,29,Yes,No,No,No internet service,No internet service,Yes,Yes,Yes,No internet service,Two year,No,Credit card (automatic),85.68,2589.37,No
+0605-ABCDE,Male,0,Yes,No,24,Yes,No phone service,Fiber optic,Yes,Yes,No internet service,No,No internet service,Yes,Two year,Yes,Electronic check,33.44,776.21,No
+0606-ABCDE,Male,0,No,Yes,63,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No internet service,Yes,Month-to-month,No,Electronic check,28.54,1719.85,Yes
+0607-ABCDE,Female,0,No,No,57,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No internet service,Two year,Yes,Bank transfer (automatic),76.43,4331.97,No
+0608-ABCDE,Female,0,Yes,No,8,Yes,Yes,No,Yes,Yes,No internet service,No internet service,Yes,No,Two year,No,Mailed check,58.95,488.14,No
+0609-ABCDE,Female,0,No,Yes,62,Yes,Yes,No,No,No internet service,No internet service,No internet service,No,Yes,One year,Yes,Bank transfer (automatic),61.77,3667.62,No
+0610-ABCDE,Male,1,Yes,Yes,29,Yes,No,DSL,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),116.72,3335.98,Yes
+0611-ABCDE,Female,0,Yes,No,17,Yes,Yes,DSL,No internet service,Yes,Yes,No,No,No,One year,Yes,Electronic check,91.84,1623.7,No
+0612-ABCDE,Female,0,Yes,Yes,66,Yes,No phone service,DSL,Yes,No internet service,No,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),60.0,3808.79,No
+0613-ABCDE,Female,0,Yes,Yes,6,Yes,Yes,No,No,No,No internet service,No,No,No,Month-to-month,Yes,Electronic check,19.95,117.43,Yes
+0614-ABCDE,Female,0,No,Yes,58,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No,No,Two year,No,Bank transfer (automatic),21.48,1280.53,No
+0615-ABCDE,Male,0,Yes,Yes,69,Yes,No,Fiber optic,No,No,No,No,No internet service,No,One year,No,Mailed check,87.85,6087.84,No
+0616-ABCDE,Male,0,Yes,No,28,Yes,No,Fiber optic,No,Yes,Yes,No internet service,No,No,Two year,Yes,Mailed check,103.45,2992.86,Yes
+0617-ABCDE,Female,1,No,Yes,62,Yes,No phone service,No,No,No,No internet service,No,No internet service,No,Two year,Yes,Credit card (automatic),90.19,5374.59,No
+0618-ABCDE,Male,0,Yes,Yes,41,Yes,No,DSL,No internet service,No,Yes,Yes,Yes,No internet service,Two year,No,Credit card (automatic),59.4,2537.82,No
+0619-ABCDE,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No,No,Month-to-month,No,Credit card (automatic),21.18,1524.98,No
+0620-ABCDE,Female,1,No,Yes,41,Yes,No,No,No internet service,No internet service,Yes,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),116.67,4618.59,No
+0621-ABCDE,Female,1,No,Yes,49,No,No phone service,DSL,No,No,No internet service,No internet service,No internet service,No,One year,No,Bank transfer (automatic),118.61,5540.98,No
+0622-ABCDE,Male,1,No,Yes,49,Yes,Yes,Fiber optic,No internet service,Yes,No,Yes,No,Yes,Two year,No,Credit card (automatic),74.04,3805.67,No
+0623-ABCDE,Female,1,No,Yes,71,Yes,No phone service,DSL,No internet service,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,25.21,1786.73,No
+0624-ABCDE,Male,0,No,Yes,3,Yes,No,No,No internet service,No,No,No,No,Yes,One year,Yes,Mailed check,73.18,221.12,No
+0625-ABCDE,Female,0,No,No,10,Yes,No,DSL,Yes,No internet service,No internet service,Yes,No internet service,No,One year,No,Mailed check,109.02,1102.84,Yes
+0626-ABCDE,Male,0,No,Yes,35,Yes,No phone service,No,No,No,No,No internet service,Yes,No,Two year,No,Bank transfer (automatic),87.36,3146.17,Yes
+0627-ABCDE,Female,0,Yes,No,2,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,91.44,188.59,Yes
+0628-ABCDE,Male,0,No,Yes,24,Yes,No,Fiber optic,No,Yes,No internet service,No internet service,No internet service,No,Two year,No,Mailed check,26.67,620.49,No
+0629-ABCDE,Male,0,No,Yes,38,Yes,No,No,No,Yes,Yes,No internet service,No,Yes,One year,No,Mailed check,28.86,1067.8,No
+0630-ABCDE,Male,0,No,Yes,22,Yes,Yes,No,Yes,No internet service,No,No,Yes,No,Month-to-month,No,Mailed check,30.99,707.47,Yes
+0631-ABCDE,Female,0,Yes,Yes,26,Yes,No,No,No internet service,No,No internet service,No,Yes,No,Two year,No,Credit card (automatic),110.25,2958.09,No
+0632-ABCDE,Male,0,Yes,No,43,Yes,No phone service,DSL,No,No,No internet service,No,Yes,No internet service,One year,No,Bank transfer (automatic),71.64,3116.75,No
+0633-ABCDE,Male,0,No,Yes,55,No,No,DSL,No internet service,No,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),98.74,5699.36,No
+0634-ABCDE,Female,0,No,Yes,39,Yes,No,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,No,Two year,Yes,Credit card (automatic),29.76,1187.94,No
+0635-ABCDE,Female,0,No,No,29,Yes,Yes,No,No internet service,No,No internet service,No,No,Yes,Two year,No,Electronic check,112.62,3173.17,Yes
+0636-ABCDE,Male,1,Yes,No,20,Yes,No phone service,No,No,Yes,Yes,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),101.76,2105.75,Yes
+0637-ABCDE,Male,0,Yes,Yes,41,Yes,Yes,DSL,No,No internet service,No internet service,No,Yes,Yes,One year,Yes,Electronic check,40.93,1663.82,No
+0638-ABCDE,Female,0,No,No,54,Yes,No,DSL,No,Yes,Yes,No,No internet service,No internet service,One year,Yes,Credit card (automatic),107.17,5518.74,Yes
+0639-ABCDE,Female,0,Yes,No,20,Yes,No,Fiber optic,Yes,Yes,Yes,No internet service,Yes,Yes,One year,Yes,Mailed check,44.87,881.37,No
+0640-ABCDE,Female,1,No,No,19,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,No internet service,Yes,One year,No,Bank transfer (automatic),38.94,759.36,No
+0641-ABCDE,Female,0,Yes,Yes,66,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),44.95,3103.23,Yes
+0642-ABCDE,Female,0,Yes,Yes,30,Yes,Yes,No,No internet service,No,Yes,No,No internet service,No,Two year,No,Electronic check,110.82,3250.17,Yes
+0643-ABCDE,Male,0,No,Yes,53,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,No,No,One year,No,Bank transfer (automatic),111.39,5754.02,No
+0644-ABCDE,Female,0,No,No,34,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,51.56,1764.19,No
+0645-ABCDE,Male,1,No,Yes,22,Yes,Yes,DSL,No,No,Yes,No internet service,No internet service,Yes,Two year,No,Mailed check,89.95,2040.58,Yes
+0646-ABCDE,Male,0,No,No,67,Yes,No,No,No internet service,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),86.93,5967.89,Yes
+0647-ABCDE,Male,0,Yes,Yes,6,Yes,No phone service,DSL,No,Yes,No,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),100.27,605.23,Yes
+0648-ABCDE,Female,1,Yes,Yes,27,Yes,No phone service,DSL,Yes,No,No internet service,No,No,Yes,One year,No,Mailed check,48.24,1319.59,No
+0649-ABCDE,Male,1,Yes,No,10,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,Yes,Yes,One year,No,Credit card (automatic),70.03,682.24,Yes
+0650-ABCDE,Male,0,No,Yes,48,No,No phone service,DSL,No internet service,Yes,No,No,Yes,No,Two year,No,Credit card (automatic),86.1,4104.93,No
+0651-ABCDE,Female,1,Yes,No,70,Yes,No,DSL,No internet service,No,No internet service,Yes,No,No internet service,Two year,No,Electronic check,20.68,1412.19,No
+0652-ABCDE,Male,0,No,No,59,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,No,Yes,One year,Yes,Electronic check,56.43,3457.36,No
+0653-ABCDE,Male,0,Yes,Yes,59,Yes,No phone service,No,No internet service,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,88.98,5046.42,Yes
+0654-ABCDE,Female,0,No,No,2,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,43.76,89.09,Yes
+0655-ABCDE,Male,0,No,Yes,29,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No internet service,No,Yes,Two year,Yes,Mailed check,115.69,3274.58,No
+0656-ABCDE,Male,0,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No internet service,Month-to-month,No,Mailed check,21.08,1429.94,No
+0657-ABCDE,Male,1,No,No,65,Yes,No phone service,No,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,No,Mailed check,115.72,7370.92,No
+0658-ABCDE,Female,1,No,Yes,26,Yes,No phone service,No,No internet service,Yes,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,40.11,1024.43,Yes
+0659-ABCDE,Female,0,Yes,No,10,Yes,Yes,No,No internet service,No internet service,No internet service,No,Yes,No,One year,Yes,Bank transfer (automatic),22.98,224.29,No
+0660-ABCDE,Female,1,No,Yes,53,No,No phone service,No,No internet service,No internet service,Yes,Yes,No internet service,Yes,One year,Yes,Mailed check,47.83,2599.07,No
+0661-ABCDE,Male,0,No,Yes,59,Yes,No,No,No internet service,Yes,No,No,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),98.2,5716.0,No
+0662-ABCDE,Male,0,No,Yes,22,Yes,No,Fiber optic,Yes,No internet service,Yes,No,No internet service,No,Month-to-month,No,Credit card (automatic),94.75,2131.68,Yes
+0663-ABCDE,Female,0,Yes,Yes,51,Yes,No phone service,DSL,Yes,Yes,No,No,Yes,No internet service,Month-to-month,No,Electronic check,39.3,1995.5,No
+0664-ABCDE,Male,0,Yes,Yes,48,Yes,No,No,No internet service,Yes,No internet service,No,No,Yes,One year,Yes,Electronic check,38.07,1835.99,No
+0665-ABCDE,Male,1,No,No,21,Yes,Yes,No,Yes,No,No,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),83.54,1761.93,No
+0666-ABCDE,Female,1,Yes,No,22,Yes,No phone service,DSL,No,Yes,No internet service,No,No internet service,No internet service,Two year,No,Credit card (automatic),64.72,1491.59,No
+0667-ABCDE,Female,0,No,No,30,Yes,No phone service,DSL,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),98.81,2924.89,Yes
+0668-ABCDE,Male,0,No,No,25,Yes,Yes,DSL,No,No internet service,Yes,No,No internet service,Yes,One year,No,Mailed check,20.46,496.55,No
+0669-ABCDE,Male,0,No,No,28,Yes,Yes,DSL,No,No,No internet service,No,No,No,Month-to-month,Yes,Electronic check,80.26,2339.82,Yes
+0670-ABCDE,Male,0,No,No,65,Yes,Yes,DSL,No internet service,No internet service,No internet service,No internet service,Yes,Yes,One year,Yes,Credit card (automatic),92.53,5818.88,No
+0671-ABCDE,Female,1,No,Yes,45,Yes,No phone service,DSL,No,Yes,No internet service,No,Yes,No,Two year,Yes,Credit card (automatic),119.33,5549.43,Yes
+0672-ABCDE,Female,0,Yes,Yes,68,Yes,Yes,Fiber optic,No,No internet service,Yes,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,87.24,5724.82,Yes
+0673-ABCDE,Female,0,No,No,7,Yes,Yes,DSL,No,No internet service,Yes,Yes,No,No internet service,Month-to-month,No,Mailed check,41.65,296.18,Yes
+0674-ABCDE,Female,0,Yes,No,49,Yes,No,DSL,No internet service,Yes,No,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),29.03,1372.76,No
+0675-ABCDE,Male,0,Yes,Yes,9,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No internet service,Yes,Two year,No,Electronic check,83.37,782.08,No
+0676-ABCDE,Female,0,No,Yes,36,Yes,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),71.36,2585.66,Yes
+0677-ABCDE,Female,0,No,Yes,1,Yes,No,No,No internet service,No,Yes,No,Yes,No internet service,Two year,No,Bank transfer (automatic),109.71,107.84,Yes
+0678-ABCDE,Female,0,Yes,No,10,Yes,No,No,No internet service,Yes,No,No internet service,No,No,One year,No,Electronic check,92.11,887.97,Yes
+0679-ABCDE,Female,0,Yes,No,36,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No internet service,Two year,No,Bank transfer (automatic),69.99,2487.19,No
+0680-ABCDE,Female,1,Yes,No,46,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,No internet service,One year,No,Electronic check,59.17,2777.62,No
+0681-ABCDE,Male,0,No,Yes,32,Yes,No,No,Yes,No,Yes,No internet service,No internet service,Yes,Two year,No,Electronic check,59.25,1874.19,No
+0682-ABCDE,Male,0,Yes,Yes,32,Yes,No,Fiber optic,No internet service,Yes,No internet service,No internet service,No,No,Two year,Yes,Credit card (automatic),41.08,1281.18,Yes
+0683-ABCDE,Female,1,No,No,6,Yes,No,No,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,19.77,119.54,Yes
+0684-ABCDE,Male,0,No,No,48,Yes,No phone service,DSL,No,No,Yes,Yes,No,Yes,Two year,No,Mailed check,76.64,3648.49,No
+0685-ABCDE,Female,1,No,Yes,38,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),39.67,1457.08,Yes
+0686-ABCDE,Female,0,Yes,Yes,17,Yes,No phone service,Fiber optic,No,Yes,No,No,No,No internet service,One year,Yes,Mailed check,39.25,644.16,Yes
+0687-ABCDE,Male,0,No,Yes,27,No,No,Fiber optic,No,No internet service,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),30.79,848.58,No
+0688-ABCDE,Male,0,No,Yes,54,Yes,No,No,No,Yes,No internet service,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),37.34,2112.07,No
+0689-ABCDE,Female,0,No,No,50,Yes,No phone service,No,No,No,No internet service,No,Yes,No,One year,No,Electronic check,21.24,1033.65,No
+0690-ABCDE,Female,0,No,Yes,35,Yes,No phone service,No,No,Yes,No,Yes,Yes,No internet service,Two year,No,Electronic check,86.77,3119.9,No
+0691-ABCDE,Female,0,No,Yes,25,No,No,DSL,No internet service,Yes,No internet service,Yes,No,No,Month-to-month,Yes,Mailed check,58.94,1412.73,Yes
+0692-ABCDE,Male,0,Yes,Yes,28,Yes,Yes,No,Yes,No,Yes,No internet service,Yes,Yes,Month-to-month,No,Mailed check,75.28,2082.88,Yes
+0693-ABCDE,Female,0,No,No,15,Yes,No phone service,DSL,No internet service,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Mailed check,82.97,1245.38,Yes
+0694-ABCDE,Female,0,No,No,4,Yes,No,Fiber optic,No internet service,Yes,Yes,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),117.19,457.92,Yes
+0695-ABCDE,Female,1,Yes,Yes,27,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,No internet service,No,One year,No,Mailed check,24.96,675.91,No
+0696-ABCDE,Male,1,No,Yes,26,Yes,Yes,DSL,No internet service,Yes,No,No,No,No,Two year,No,Credit card (automatic),60.63,1636.69,No
+0697-ABCDE,Female,1,Yes,Yes,19,Yes,No,No,Yes,No,No internet service,Yes,No,No internet service,Two year,Yes,Credit card (automatic),43.08,854.9,No
+0698-ABCDE,Female,0,No,No,17,Yes,No,DSL,No internet service,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),66.62,1087.3,Yes
+0699-ABCDE,Male,0,Yes,No,43,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,No,Two year,No,Mailed check,111.89,4701.5,No
+0700-ABCDE,Female,0,Yes,No,41,Yes,No phone service,Fiber optic,No internet service,No,No,No,Yes,Yes,One year,Yes,Mailed check,91.85,3946.28,No
+0701-ABCDE,Female,0,No,Yes,42,Yes,Yes,DSL,No internet service,No internet service,Yes,Yes,No internet service,Yes,Two year,No,Electronic check,85.52,3509.38,No
+0702-ABCDE,Male,0,No,No,50,Yes,Yes,No,Yes,No,Yes,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),63.01,3211.21,No
+0703-ABCDE,Female,0,No,Yes,40,Yes,No,No,Yes,No,No,Yes,No internet service,No,Two year,No,Bank transfer (automatic),86.45,3372.74,No
+0704-ABCDE,Male,0,Yes,Yes,39,Yes,No phone service,DSL,No,No,No,Yes,No internet service,No,One year,Yes,Mailed check,21.3,818.77,No
+0705-ABCDE,Male,0,Yes,Yes,23,Yes,Yes,DSL,No internet service,No,Yes,Yes,Yes,No,One year,Yes,Electronic check,77.8,1734.16,No
+0706-ABCDE,Female,0,Yes,No,52,Yes,Yes,No,No internet service,No,No internet service,No,No,Yes,Two year,Yes,Bank transfer (automatic),74.49,4011.49,No
+0707-ABCDE,Female,0,No,Yes,47,Yes,Yes,Fiber optic,No internet service,No,Yes,No internet service,No,Yes,Two year,No,Bank transfer (automatic),53.36,2603.89,No
+0708-ABCDE,Female,0,Yes,No,63,Yes,No,DSL,No,No,No internet service,No,No internet service,No,One year,Yes,Credit card (automatic),38.55,2379.33,No
+0709-ABCDE,Female,1,Yes,No,69,No,No phone service,No,Yes,No,No internet service,No,No,No,Month-to-month,Yes,Mailed check,100.37,7149.63,Yes
+0710-ABCDE,Male,0,No,Yes,43,Yes,Yes,No,No,No,No,Yes,No,No internet service,Two year,No,Bank transfer (automatic),23.49,995.75,No
+0711-ABCDE,Female,0,Yes,Yes,48,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,No,No internet service,One year,Yes,Electronic check,25.11,1156.95,No
+0712-ABCDE,Male,0,Yes,No,34,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No internet service,No,Two year,No,Electronic check,62.93,2194.84,No
+0713-ABCDE,Female,0,No,Yes,40,Yes,Yes,Fiber optic,Yes,No,No internet service,No internet service,Yes,No,Two year,No,Bank transfer (automatic),43.76,1767.28,No
+0714-ABCDE,Female,0,Yes,No,61,Yes,No phone service,Fiber optic,No,Yes,No internet service,No,Yes,Yes,Two year,Yes,Electronic check,94.04,5607.02,No
+0715-ABCDE,Female,0,No,Yes,50,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),82.69,4032.38,No
+0716-ABCDE,Male,0,No,No,67,Yes,No phone service,DSL,Yes,Yes,Yes,No,Yes,No internet service,Two year,No,Electronic check,96.8,6794.07,No
+0717-ABCDE,Female,0,No,No,62,Yes,No,No,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),51.12,3284.33,No
+0718-ABCDE,Female,0,No,No,58,Yes,Yes,DSL,No internet service,No,No,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),93.53,5592.8,Yes
+0719-ABCDE,Female,0,No,No,33,Yes,No,DSL,Yes,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),105.95,3366.29,Yes
+0720-ABCDE,Female,1,Yes,Yes,16,Yes,No phone service,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Electronic check,53.22,873.25,Yes
+0721-ABCDE,Male,0,Yes,Yes,48,Yes,Yes,DSL,No,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),52.67,2455.99,Yes
+0722-ABCDE,Female,0,No,No,10,Yes,No,DSL,No,No internet service,Yes,No internet service,No,No,Month-to-month,No,Credit card (automatic),109.8,1150.42,Yes
+0723-ABCDE,Male,1,No,No,38,Yes,Yes,Fiber optic,Yes,No,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),23.08,837.76,No
+0724-ABCDE,Male,0,Yes,Yes,19,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,No,Mailed check,53.72,1005.59,Yes
+0725-ABCDE,Male,0,No,Yes,36,Yes,No phone service,No,Yes,No internet service,No,No internet service,No internet service,Yes,Two year,Yes,Mailed check,30.1,1075.87,No
+0726-ABCDE,Male,0,No,Yes,59,Yes,No,DSL,Yes,Yes,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),20.96,1276.73,No
+0727-ABCDE,Male,0,No,Yes,63,Yes,Yes,No,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),29.51,1908.62,Yes
+0728-ABCDE,Male,1,Yes,Yes,46,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No,Month-to-month,Yes,Mailed check,61.99,2815.89,Yes
+0729-ABCDE,Female,0,Yes,Yes,3,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Two year,No,Bank transfer (automatic),88.07,265.94,Yes
+0730-ABCDE,Male,1,No,No,65,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,47.51,3191.79,No
+0731-ABCDE,Male,0,No,Yes,8,Yes,No phone service,DSL,No,No,Yes,No internet service,Yes,Yes,Two year,No,Electronic check,104.67,797.02,Yes
+0732-ABCDE,Male,0,Yes,Yes,51,Yes,No,DSL,No,No,No internet service,No internet service,Yes,No,Two year,Yes,Electronic check,62.64,3291.18,No
+0733-ABCDE,Female,0,Yes,No,6,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,Yes,No,One year,No,Credit card (automatic),116.76,731.87,Yes
+0734-ABCDE,Female,0,No,Yes,39,Yes,No phone service,No,Yes,No,Yes,No,No,No,Two year,No,Credit card (automatic),115.32,4287.03,Yes
+0735-ABCDE,Male,0,No,Yes,60,Yes,No phone service,No,No,No,Yes,No,No,Yes,Two year,No,Bank transfer (automatic),96.87,5548.08,No
+0736-ABCDE,Female,1,Yes,Yes,28,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No internet service,Two year,No,Credit card (automatic),113.11,3117.84,Yes
+0737-ABCDE,Male,0,Yes,Yes,54,Yes,Yes,No,No internet service,No,No internet service,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),90.12,4665.87,No
+0738-ABCDE,Male,1,Yes,Yes,37,No,Yes,Fiber optic,No internet service,No internet service,No,No,No,No internet service,One year,No,Electronic check,109.35,4037.57,Yes
+0739-ABCDE,Female,0,No,No,9,Yes,No,No,Yes,No internet service,Yes,No internet service,No,No,Month-to-month,Yes,Electronic check,42.12,387.75,Yes
+0740-ABCDE,Male,1,Yes,Yes,56,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,53.23,3000.82,No
+0741-ABCDE,Female,0,No,No,59,No,No,No,No internet service,No internet service,Yes,No internet service,No internet service,No,Two year,No,Bank transfer (automatic),94.8,5423.41,No
+0742-ABCDE,Female,0,Yes,No,2,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Two year,No,Electronic check,61.31,124.52,Yes
+0743-ABCDE,Male,1,Yes,Yes,61,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Two year,Yes,Electronic check,103.41,6424.62,Yes
+0744-ABCDE,Male,0,Yes,No,58,Yes,No phone service,Fiber optic,No,No,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),107.52,6505.84,Yes
+0745-ABCDE,Female,0,Yes,Yes,60,Yes,No phone service,No,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,48.57,2811.27,No
+0746-ABCDE,Male,0,No,No,40,Yes,No phone service,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,101.99,4158.07,No
+0747-ABCDE,Male,0,No,No,36,Yes,No,Fiber optic,No,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,33.73,1264.24,Yes
+0748-ABCDE,Male,1,Yes,Yes,37,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,No internet service,One year,No,Mailed check,52.09,1927.63,No
+0749-ABCDE,Female,0,No,Yes,18,Yes,Yes,DSL,No,Yes,No,No,Yes,No,Two year,No,Electronic check,70.83,1257.32,Yes
+0750-ABCDE,Female,0,Yes,Yes,63,No,No,DSL,No internet service,No internet service,No,No internet service,No,No,Two year,No,Bank transfer (automatic),41.1,2504.05,No
+0751-ABCDE,Male,0,Yes,Yes,22,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),77.09,1758.19,No
+0752-ABCDE,Female,0,Yes,Yes,11,Yes,No,DSL,Yes,No internet service,Yes,No internet service,No internet service,Yes,One year,No,Electronic check,77.03,838.37,No
+0753-ABCDE,Female,0,Yes,No,58,Yes,No,No,No,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,39.1,2364.15,No
+0754-ABCDE,Female,0,No,No,57,Yes,No,DSL,No,No,Yes,No internet service,Yes,No internet service,One year,No,Electronic check,99.16,5848.68,No
+0755-ABCDE,Female,0,Yes,No,4,Yes,No phone service,No,No internet service,No internet service,No internet service,No,No,Yes,Two year,Yes,Credit card (automatic),82.43,325.65,No
+0756-ABCDE,Female,0,Yes,No,7,No,No,DSL,No internet service,Yes,No internet service,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),50.41,355.48,Yes
+0757-ABCDE,Male,0,No,No,61,Yes,No phone service,DSL,No internet service,No internet service,No,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),41.68,2422.26,No
+0758-ABCDE,Male,0,Yes,No,54,Yes,No phone service,No,No,No,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),107.63,5674.4,Yes
+0759-ABCDE,Male,0,Yes,No,68,Yes,No,Fiber optic,No,Yes,No,Yes,No internet service,No,Month-to-month,No,Mailed check,103.25,7168.63,No
+0760-ABCDE,Female,0,Yes,Yes,1,Yes,Yes,Fiber optic,Yes,No internet service,No,No,No internet service,No internet service,Month-to-month,No,Electronic check,41.44,42.18,Yes
+0761-ABCDE,Female,0,No,Yes,55,No,Yes,DSL,No,No internet service,No internet service,No,No,Yes,Month-to-month,Yes,Electronic check,21.63,1172.21,No
+0762-ABCDE,Male,0,Yes,No,3,Yes,Yes,No,Yes,No,No,No internet service,Yes,No internet service,One year,Yes,Electronic check,100.06,309.44,Yes
+0763-ABCDE,Female,0,No,No,38,Yes,No,Fiber optic,No internet service,No,Yes,No internet service,No,No internet service,Two year,No,Credit card (automatic),80.78,2988.55,No
+0764-ABCDE,Male,0,Yes,Yes,1,Yes,Yes,No,No internet service,Yes,No,No internet service,No internet service,Yes,Two year,Yes,Bank transfer (automatic),28.29,28.18,No
+0765-ABCDE,Male,0,Yes,Yes,38,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,No internet service,One year,Yes,Electronic check,77.91,2952.45,No
+0766-ABCDE,Male,0,No,Yes,29,Yes,Yes,No,Yes,No internet service,No internet service,No,No,No internet service,Two year,Yes,Credit card (automatic),64.12,1829.88,No
+0767-ABCDE,Female,0,Yes,Yes,5,Yes,No,DSL,No,No,No internet service,Yes,No,No internet service,Month-to-month,Yes,Electronic check,97.0,507.05,Yes
+0768-ABCDE,Female,0,Yes,No,21,Yes,Yes,No,No internet service,No,No,Yes,No,No,Month-to-month,No,Mailed check,39.33,842.17,Yes
+0769-ABCDE,Male,0,No,Yes,71,Yes,No phone service,Fiber optic,No,Yes,Yes,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),64.22,4577.49,No
+0770-ABCDE,Male,0,No,No,67,Yes,No,DSL,No,No internet service,No,No internet service,No,No internet service,One year,Yes,Credit card (automatic),33.94,2276.37,No
+0771-ABCDE,Male,1,No,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,115.67,5251.27,Yes
+0772-ABCDE,Male,0,No,No,35,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),97.43,3366.47,Yes
+0773-ABCDE,Female,0,No,Yes,68,Yes,No,DSL,No,Yes,No,No internet service,Yes,No internet service,One year,No,Credit card (automatic),93.15,6443.64,No
+0774-ABCDE,Female,0,Yes,Yes,69,Yes,No,No,No internet service,No,Yes,No internet service,No internet service,No,Month-to-month,No,Bank transfer (automatic),88.4,6358.57,No
+0775-ABCDE,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No internet service,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),61.18,63.12,Yes
+0776-ABCDE,Male,0,Yes,No,68,Yes,No,No,No,Yes,No,No internet service,Yes,No,Two year,Yes,Mailed check,112.17,7475.31,No
+0777-ABCDE,Female,1,Yes,No,12,Yes,Yes,No,No,Yes,Yes,No internet service,Yes,No internet service,One year,Yes,Bank transfer (automatic),25.44,303.26,No
+0778-ABCDE,Female,0,Yes,Yes,60,Yes,No phone service,DSL,No,No internet service,No,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),99.93,5745.73,Yes
+0779-ABCDE,Male,0,No,No,27,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),39.95,1035.74,Yes
+0780-ABCDE,Male,0,No,Yes,56,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),51.05,2850.29,Yes
+0781-ABCDE,Male,0,Yes,No,23,Yes,Yes,DSL,Yes,No internet service,No,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),70.98,1637.47,Yes
+0782-ABCDE,Female,0,No,No,25,Yes,No,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No,Two year,Yes,Electronic check,97.83,2388.04,Yes
+0783-ABCDE,Female,0,No,No,21,No,Yes,No,Yes,No,No internet service,Yes,No internet service,No,Two year,Yes,Mailed check,103.53,2205.17,No
+0784-ABCDE,Female,0,No,Yes,61,Yes,No,No,Yes,No,Yes,Yes,No,No,Two year,No,Electronic check,77.54,4826.14,No
+0785-ABCDE,Male,0,No,Yes,63,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,No,Two year,No,Mailed check,59.11,3649.12,No
+0786-ABCDE,Male,0,Yes,No,52,Yes,Yes,No,No,Yes,Yes,No,No internet service,No,One year,No,Credit card (automatic),114.54,6110.0,No
+0787-ABCDE,Female,0,Yes,Yes,25,Yes,No,DSL,No,No,No internet service,No,No internet service,Yes,Month-to-month,Yes,Mailed check,43.15,1046.99,Yes
+0788-ABCDE,Female,0,No,No,55,Yes,No phone service,No,No internet service,No,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),99.92,5519.92,No
+0789-ABCDE,Male,0,Yes,Yes,46,Yes,No phone service,DSL,No internet service,No,No internet service,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),80.43,3812.36,Yes
+0790-ABCDE,Female,0,No,Yes,32,No,Yes,Fiber optic,No internet service,No,Yes,Yes,No internet service,No,One year,No,Electronic check,56.44,1812.76,No
+0791-ABCDE,Female,0,No,Yes,55,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No internet service,No,Month-to-month,No,Mailed check,18.14,1038.4,No
+0792-ABCDE,Male,0,Yes,No,5,Yes,No,No,Yes,Yes,No internet service,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),63.55,303.72,Yes
+0793-ABCDE,Female,0,Yes,Yes,36,Yes,No phone service,No,Yes,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),46.23,1678.98,No
+0794-ABCDE,Male,1,Yes,Yes,49,Yes,No phone service,DSL,No,Yes,Yes,No,No internet service,No,Two year,Yes,Bank transfer (automatic),28.64,1412.03,No
+0795-ABCDE,Male,0,No,No,58,Yes,No,DSL,No internet service,No,Yes,No,No internet service,Yes,One year,No,Credit card (automatic),25.67,1512.73,No
+0796-ABCDE,Male,0,Yes,No,39,Yes,No phone service,No,No internet service,No internet service,Yes,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),53.45,2154.05,No
+0797-ABCDE,Male,0,No,No,61,Yes,No phone service,No,No internet service,No internet service,Yes,No,Yes,No internet service,Two year,No,Bank transfer (automatic),80.71,5034.5,No
+0798-ABCDE,Male,0,Yes,No,9,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),103.43,957.89,No
+0799-ABCDE,Male,0,Yes,Yes,6,Yes,No phone service,Fiber optic,No internet service,No,No,Yes,Yes,No internet service,Two year,No,Electronic check,36.72,215.67,No
+0800-ABCDE,Male,0,No,Yes,35,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,Yes,One year,Yes,Electronic check,61.31,2121.71,No
+0801-ABCDE,Female,1,No,Yes,39,Yes,No phone service,No,No,No internet service,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),57.98,2289.89,Yes
+0802-ABCDE,Male,0,No,Yes,22,Yes,No,No,Yes,No,No,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),70.37,1556.42,No
+0803-ABCDE,Male,0,No,Yes,41,Yes,No phone service,No,No,No,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),100.58,4313.93,Yes
+0804-ABCDE,Female,0,No,No,5,Yes,No phone service,Fiber optic,No,Yes,No,Yes,Yes,No,One year,No,Credit card (automatic),74.47,360.69,Yes
+0805-ABCDE,Female,1,No,Yes,42,Yes,No phone service,No,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),104.36,4317.93,Yes
+0806-ABCDE,Female,0,No,Yes,67,Yes,No phone service,DSL,No,No internet service,No,Yes,No internet service,No,Two year,No,Bank transfer (automatic),70.89,4784.19,No
+0807-ABCDE,Male,1,No,Yes,30,Yes,No,No,Yes,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,79.59,2475.56,Yes
+0808-ABCDE,Female,0,Yes,No,57,Yes,No,No,No internet service,No internet service,Yes,No,No,Yes,Month-to-month,No,Mailed check,62.61,3721.99,Yes
+0809-ABCDE,Male,1,No,No,29,Yes,No,No,No,Yes,No,Yes,No,No internet service,One year,Yes,Mailed check,101.96,2908.36,Yes
+0810-ABCDE,Male,0,No,Yes,37,Yes,Yes,No,Yes,Yes,No,No,Yes,No internet service,One year,No,Mailed check,112.23,3972.75,Yes
+0811-ABCDE,Male,1,Yes,No,13,No,No phone service,No,No internet service,No internet service,No internet service,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),83.19,1072.99,Yes
+0812-ABCDE,Male,0,No,No,32,Yes,No phone service,DSL,No internet service,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Mailed check,101.72,3220.65,Yes
+0813-ABCDE,Female,1,Yes,No,46,Yes,No,DSL,No internet service,No,No internet service,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),24.02,1158.67,No
+0814-ABCDE,Female,0,Yes,No,23,Yes,Yes,No,No,No internet service,No,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),110.42,2522.15,Yes
+0815-ABCDE,Male,0,No,No,45,Yes,No phone service,Fiber optic,No,No,No,Yes,No internet service,No,One year,Yes,Mailed check,37.27,1644.57,No
+0816-ABCDE,Male,0,Yes,No,17,Yes,No,No,No internet service,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Electronic check,44.17,740.78,Yes
+0817-ABCDE,Male,0,No,No,66,Yes,No phone service,No,No internet service,Yes,No internet service,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),23.44,1531.09,No
+0818-ABCDE,Female,0,Yes,Yes,6,Yes,No phone service,No,No internet service,No,Yes,No,No internet service,No,Two year,No,Credit card (automatic),116.47,721.29,Yes
+0819-ABCDE,Male,0,Yes,Yes,18,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,No,One year,No,Mailed check,104.91,1809.26,Yes
+0820-ABCDE,Male,0,Yes,No,22,Yes,No,Fiber optic,No internet service,No,Yes,Yes,No,No,One year,No,Mailed check,111.14,2400.21,Yes
+0821-ABCDE,Female,0,No,Yes,33,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),104.42,3606.55,No
+0822-ABCDE,Female,1,No,Yes,30,Yes,No phone service,DSL,Yes,No,No internet service,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),66.91,1937.67,No
+0823-ABCDE,Male,0,Yes,No,32,Yes,No,Fiber optic,No internet service,No,Yes,No,Yes,Yes,Two year,No,Mailed check,112.26,3679.47,Yes
+0824-ABCDE,Female,1,Yes,Yes,42,Yes,No phone service,DSL,No,No,No,No internet service,No internet service,No,Two year,Yes,Mailed check,116.89,4838.88,No
+0825-ABCDE,Female,0,No,No,10,Yes,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),69.26,698.26,Yes
+0826-ABCDE,Male,0,No,No,36,Yes,No,Fiber optic,No,No internet service,No,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),35.91,1240.99,Yes
+0827-ABCDE,Female,0,Yes,No,34,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No,Two year,No,Mailed check,85.18,2840.05,Yes
+0828-ABCDE,Male,0,Yes,Yes,28,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),117.49,3290.0,Yes
+0829-ABCDE,Female,0,No,Yes,11,No,Yes,DSL,Yes,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,106.96,1144.99,Yes
+0830-ABCDE,Male,0,No,Yes,39,Yes,No,No,No internet service,No internet service,Yes,No,No,No,Month-to-month,Yes,Electronic check,105.91,4147.78,Yes
+0831-ABCDE,Male,0,No,Yes,47,Yes,Yes,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No internet service,Two year,Yes,Electronic check,113.25,5173.58,No
+0832-ABCDE,Male,0,No,No,19,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No,No internet service,Yes,One year,No,Mailed check,109.18,2105.56,Yes
+0833-ABCDE,Female,1,No,No,15,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No internet service,Two year,Yes,Credit card (automatic),97.18,1516.64,No
+0834-ABCDE,Male,1,Yes,Yes,28,No,No phone service,DSL,No,Yes,No internet service,No internet service,No,Yes,Two year,No,Electronic check,91.26,2449.36,No
+0835-ABCDE,Female,0,No,No,24,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),45.01,1049.63,Yes
+0836-ABCDE,Male,0,Yes,No,72,Yes,Yes,No,No,No,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,81.38,6061.17,No
+0837-ABCDE,Male,0,No,Yes,9,Yes,Yes,Fiber optic,Yes,No internet service,No,No internet service,No,No,One year,Yes,Bank transfer (automatic),71.19,649.14,No
+0838-ABCDE,Female,0,Yes,No,47,Yes,Yes,DSL,No internet service,Yes,No,Yes,No,No,One year,No,Electronic check,105.92,4768.51,No
+0839-ABCDE,Male,0,No,Yes,33,Yes,No phone service,No,No internet service,No,No internet service,No,No,No internet service,One year,Yes,Credit card (automatic),68.15,2245.88,No
+0840-ABCDE,Male,0,No,No,62,Yes,Yes,Fiber optic,No internet service,No,No,No internet service,No,No,One year,No,Bank transfer (automatic),31.03,1868.02,No
+0841-ABCDE,Female,0,Yes,Yes,19,No,Yes,DSL,No internet service,Yes,Yes,Yes,No internet service,No,Two year,No,Electronic check,18.51,341.11,No
+0842-ABCDE,Male,1,Yes,No,67,Yes,No,Fiber optic,No internet service,Yes,No,No,No,Yes,One year,No,Electronic check,87.14,6095.65,No
+0843-ABCDE,Male,0,No,No,40,Yes,No,Fiber optic,No,No internet service,No,No internet service,No,No,Two year,Yes,Electronic check,74.09,3041.11,No
+0844-ABCDE,Male,0,No,Yes,47,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),51.76,2480.46,No
+0845-ABCDE,Male,0,No,Yes,65,Yes,No,DSL,No internet service,Yes,Yes,No internet service,No,No,One year,No,Electronic check,35.24,2230.8,No
+0846-ABCDE,Female,0,No,Yes,29,No,No,DSL,No internet service,No internet service,No internet service,No,No internet service,No,Month-to-month,Yes,Mailed check,65.6,1829.84,Yes
+0847-ABCDE,Female,0,No,Yes,50,No,No,Fiber optic,No internet service,No,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,28.23,1463.84,Yes
+0848-ABCDE,Male,1,Yes,No,13,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,No,Yes,No,Two year,No,Mailed check,52.28,646.06,No
+0849-ABCDE,Female,0,Yes,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,Yes,Yes,One year,No,Credit card (automatic),56.68,56.05,Yes
+0850-ABCDE,Male,1,No,Yes,34,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,Yes,No internet service,Two year,Yes,Mailed check,65.49,2177.14,No
+0851-ABCDE,Female,0,Yes,No,48,No,Yes,DSL,No,No internet service,No,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),65.6,3170.96,Yes
+0852-ABCDE,Male,0,Yes,Yes,48,Yes,No,Fiber optic,Yes,No,Yes,Yes,No internet service,No,One year,No,Credit card (automatic),44.21,2069.14,No
+0853-ABCDE,Male,0,Yes,Yes,49,Yes,No phone service,No,No,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,104.72,5034.4,Yes
+0854-ABCDE,Male,0,No,No,64,No,No,No,No internet service,Yes,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),54.27,3594.86,Yes
+0855-ABCDE,Male,1,Yes,No,61,No,Yes,DSL,No,No internet service,No internet service,No,No internet service,No,One year,No,Mailed check,41.42,2552.69,No
+0856-ABCDE,Male,1,No,Yes,29,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),35.93,1005.05,No
+0857-ABCDE,Male,0,Yes,Yes,39,Yes,No phone service,No,No internet service,Yes,Yes,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),50.9,2030.06,No
+0858-ABCDE,Female,0,No,Yes,26,No,No phone service,No,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Mailed check,24.89,628.21,No
+0859-ABCDE,Male,0,Yes,No,17,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Two year,No,Credit card (automatic),21.36,360.69,No
+0860-ABCDE,Female,1,No,No,71,No,Yes,DSL,No,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,79.72,5743.1,No
+0861-ABCDE,Male,0,No,No,13,Yes,Yes,No,No internet service,No,No internet service,No,Yes,Yes,One year,No,Mailed check,81.15,1030.89,No
+0862-ABCDE,Female,0,Yes,No,69,Yes,No phone service,No,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,72.02,4911.79,No
+0863-ABCDE,Female,0,No,Yes,26,Yes,Yes,DSL,No,No,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),95.75,2547.79,Yes
+0864-ABCDE,Female,0,No,Yes,49,Yes,No,Fiber optic,No,Yes,No,Yes,No,No internet service,Month-to-month,No,Credit card (automatic),21.99,1124.7,No
+0865-ABCDE,Male,0,No,Yes,67,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),113.47,7624.72,Yes
+0866-ABCDE,Male,0,No,Yes,7,Yes,No phone service,No,No internet service,No,No internet service,No,Yes,Yes,Month-to-month,Yes,Mailed check,27.7,184.4,Yes
+0867-ABCDE,Female,1,No,Yes,58,Yes,No,Fiber optic,Yes,No internet service,Yes,No,No internet service,Yes,One year,No,Electronic check,86.75,4950.22,No
+0868-ABCDE,Male,0,No,Yes,49,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No internet service,Two year,No,Bank transfer (automatic),31.61,1533.19,No
+0869-ABCDE,Female,0,No,No,53,Yes,No,Fiber optic,No,Yes,No,No,No internet service,No,One year,Yes,Credit card (automatic),107.75,5618.91,No
+0870-ABCDE,Male,1,No,No,65,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No internet service,One year,Yes,Credit card (automatic),70.09,4526.82,No
+0871-ABCDE,Female,0,Yes,Yes,62,Yes,No phone service,No,Yes,Yes,No,No internet service,No internet service,No,One year,No,Bank transfer (automatic),26.39,1657.89,No
+0872-ABCDE,Female,1,Yes,Yes,17,Yes,No,Fiber optic,No internet service,No,Yes,Yes,No,No internet service,Two year,Yes,Electronic check,80.91,1323.36,Yes
+0873-ABCDE,Male,0,No,No,43,Yes,No,Fiber optic,No,Yes,No internet service,No internet service,No,No,Two year,Yes,Credit card (automatic),18.93,795.48,No
+0874-ABCDE,Female,0,No,No,25,Yes,No phone service,DSL,Yes,No,No,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),97.15,2430.61,Yes
+0875-ABCDE,Male,1,Yes,No,3,Yes,No phone service,No,Yes,No,Yes,Yes,No,Yes,One year,No,Mailed check,84.36,248.41,Yes
+0876-ABCDE,Female,0,Yes,No,29,Yes,No phone service,DSL,No,No,No internet service,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),39.69,1207.53,No
+0877-ABCDE,Female,0,Yes,Yes,32,No,No,DSL,No,No,No,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),56.22,1786.7,Yes
+0878-ABCDE,Male,0,No,Yes,26,Yes,No,No,No internet service,Yes,Yes,No internet service,Yes,No internet service,Two year,Yes,Electronic check,18.8,506.88,No
+0879-ABCDE,Male,0,Yes,Yes,16,Yes,No,Fiber optic,Yes,No,No,No internet service,Yes,No internet service,One year,Yes,Mailed check,88.76,1476.47,Yes
+0880-ABCDE,Male,0,No,Yes,25,No,No phone service,DSL,No,Yes,Yes,No internet service,No,Yes,One year,No,Bank transfer (automatic),50.91,1315.52,No
+0881-ABCDE,Female,0,No,Yes,54,Yes,Yes,No,Yes,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,76.3,3933.51,Yes
+0882-ABCDE,Male,1,Yes,No,28,Yes,No,Fiber optic,No internet service,No,No internet service,No,Yes,Yes,Two year,Yes,Credit card (automatic),115.59,3381.43,Yes
+0883-ABCDE,Female,0,No,Yes,56,Yes,Yes,No,No,Yes,No,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),48.55,2617.86,No
+0884-ABCDE,Female,0,No,No,65,Yes,No phone service,DSL,No internet service,No internet service,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),119.0,7374.86,Yes
+0885-ABCDE,Male,0,No,Yes,41,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Electronic check,82.54,3355.16,No
+0886-ABCDE,Male,0,No,Yes,51,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,No,One year,No,Bank transfer (automatic),42.69,2110.71,No
+0887-ABCDE,Female,0,Yes,Yes,71,Yes,No,No,No internet service,No,Yes,No internet service,Yes,No,Two year,No,Electronic check,62.55,4300.8,No
+0888-ABCDE,Female,1,Yes,Yes,29,Yes,No,Fiber optic,Yes,No,No internet service,Yes,No internet service,Yes,Two year,No,Credit card (automatic),93.53,2654.82,No
+0889-ABCDE,Male,0,No,Yes,19,Yes,No,DSL,No internet service,Yes,No,Yes,No internet service,No internet service,Two year,No,Mailed check,63.54,1176.89,No
+0890-ABCDE,Male,0,No,No,66,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Two year,No,Electronic check,24.99,1679.82,No
+0891-ABCDE,Male,0,Yes,No,41,Yes,No phone service,DSL,No,No internet service,Yes,No internet service,Yes,No,Two year,No,Mailed check,35.2,1398.0,No
+0892-ABCDE,Male,0,No,No,45,Yes,No,No,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),98.71,4461.1,No
+0893-ABCDE,Male,0,Yes,Yes,15,Yes,No phone service,Fiber optic,Yes,No,No internet service,No,Yes,No internet service,One year,No,Electronic check,84.13,1323.33,Yes
+0894-ABCDE,Female,0,No,Yes,3,Yes,No phone service,Fiber optic,No,Yes,No internet service,No internet service,No,Yes,One year,No,Credit card (automatic),76.12,226.82,Yes
+0895-ABCDE,Female,1,No,No,11,Yes,Yes,Fiber optic,Yes,No internet service,No,No internet service,Yes,Yes,One year,No,Electronic check,35.1,391.58,No
+0896-ABCDE,Female,0,Yes,Yes,53,Yes,Yes,DSL,No,No internet service,Yes,No internet service,No,Yes,Month-to-month,Yes,Electronic check,103.45,5740.2,Yes
+0897-ABCDE,Female,0,Yes,Yes,46,Yes,No phone service,Fiber optic,No,Yes,No internet service,No,Yes,No internet service,One year,No,Electronic check,116.0,5142.64,No
+0898-ABCDE,Male,0,Yes,No,30,Yes,No,DSL,Yes,No,No,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,22.17,659.69,Yes
+0899-ABCDE,Male,0,Yes,Yes,57,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No internet service,One year,No,Mailed check,25.96,1531.54,No
+0900-ABCDE,Male,0,No,No,18,Yes,No,DSL,No internet service,Yes,Yes,Yes,No internet service,No,Two year,Yes,Bank transfer (automatic),108.24,2032.55,Yes
+0901-ABCDE,Female,0,Yes,Yes,51,Yes,No,Fiber optic,No,Yes,No internet service,No internet service,No,No,Two year,No,Bank transfer (automatic),101.19,5212.93,No
+0902-ABCDE,Female,0,No,No,48,Yes,No,No,No internet service,No internet service,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),81.03,3750.75,No
+0903-ABCDE,Male,0,Yes,Yes,66,Yes,No phone service,No,No internet service,No,No,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),114.39,7852.84,Yes
+0904-ABCDE,Male,0,Yes,Yes,8,Yes,No,DSL,Yes,No internet service,No,No,No,Yes,One year,Yes,Electronic check,83.94,649.66,No
+0905-ABCDE,Female,0,No,No,22,Yes,No phone service,DSL,No,Yes,No internet service,No internet service,No,No internet service,One year,Yes,Mailed check,40.03,867.7,No
+0906-ABCDE,Female,1,Yes,Yes,6,Yes,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Mailed check,92.32,547.02,Yes
+0907-ABCDE,Male,1,Yes,Yes,57,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,83.86,4754.83,No
+0908-ABCDE,Male,0,Yes,No,36,Yes,No,No,No internet service,Yes,Yes,No,No,No internet service,Month-to-month,Yes,Mailed check,118.55,4391.64,Yes
+0909-ABCDE,Female,1,Yes,Yes,57,Yes,No,Fiber optic,No,No,No internet service,Yes,No,No,Month-to-month,No,Bank transfer (automatic),39.82,2338.32,No
+0910-ABCDE,Male,0,No,No,49,Yes,No,DSL,No internet service,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,78.98,3955.03,Yes
+0911-ABCDE,Male,0,No,Yes,45,Yes,No phone service,DSL,No,No internet service,Yes,No,No,Yes,Two year,Yes,Mailed check,97.58,4181.26,No
+0912-ABCDE,Male,0,Yes,Yes,66,Yes,No,DSL,No,No,Yes,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),52.58,3492.78,No
+0913-ABCDE,Female,0,Yes,Yes,45,Yes,No,DSL,No,No internet service,Yes,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,56.73,2616.03,Yes
+0914-ABCDE,Female,0,Yes,Yes,20,Yes,No phone service,DSL,No,No,No internet service,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),108.57,2159.38,No
+0915-ABCDE,Female,1,No,No,64,Yes,Yes,No,No internet service,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,59.23,3959.38,No
+0916-ABCDE,Female,0,No,Yes,67,Yes,Yes,No,No internet service,No,Yes,Yes,No internet service,No internet service,Two year,No,Electronic check,81.72,5652.53,No
+0917-ABCDE,Female,0,No,No,3,Yes,No phone service,DSL,No internet service,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,108.7,330.61,Yes
+0918-ABCDE,Female,0,No,Yes,54,Yes,Yes,Fiber optic,No internet service,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),39.4,2034.5,No
+0919-ABCDE,Female,1,Yes,Yes,64,Yes,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,118.15,7676.8,Yes
+0920-ABCDE,Male,0,Yes,Yes,40,Yes,No,No,No,No,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,89.6,3731.51,Yes
+0921-ABCDE,Male,0,Yes,Yes,59,Yes,No,DSL,No,No internet service,Yes,No internet service,Yes,No,One year,Yes,Credit card (automatic),68.6,3998.61,No
+0922-ABCDE,Male,0,No,No,55,Yes,Yes,No,No,No internet service,No,No internet service,Yes,No internet service,One year,Yes,Mailed check,61.95,3522.46,No
+0923-ABCDE,Male,0,Yes,No,62,Yes,No,No,Yes,No internet service,No,No internet service,Yes,Yes,Month-to-month,No,Bank transfer (automatic),115.35,7018.08,Yes
+0924-ABCDE,Male,1,No,No,4,Yes,Yes,DSL,No internet service,No,Yes,No,Yes,No,One year,No,Mailed check,38.98,157.01,No
+0925-ABCDE,Male,1,No,No,60,Yes,Yes,DSL,No,No,No internet service,No,No internet service,No,One year,Yes,Bank transfer (automatic),49.79,3031.74,No
+0926-ABCDE,Male,0,Yes,Yes,30,No,No,Fiber optic,No internet service,No,No internet service,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),49.39,1508.07,No
+0927-ABCDE,Female,1,Yes,No,2,Yes,No,No,No internet service,No,Yes,No internet service,No,No,One year,No,Bank transfer (automatic),47.48,98.59,Yes
+0928-ABCDE,Female,0,Yes,No,62,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No internet service,No,One year,No,Credit card (automatic),65.79,3970.73,No
+0929-ABCDE,Male,1,No,Yes,49,Yes,No,DSL,Yes,No,No,Yes,No internet service,Yes,Month-to-month,No,Mailed check,118.9,5687.65,Yes
+0930-ABCDE,Male,0,No,Yes,9,Yes,No phone service,No,No internet service,No internet service,No,No,Yes,No internet service,Month-to-month,No,Mailed check,108.66,997.89,Yes
+0931-ABCDE,Female,0,Yes,Yes,31,Yes,No,Fiber optic,No,Yes,No internet service,No,Yes,No internet service,Two year,Yes,Credit card (automatic),51.45,1543.46,No
+0932-ABCDE,Male,0,Yes,Yes,61,No,No,Fiber optic,No,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),61.13,3715.61,No
+0933-ABCDE,Male,0,No,No,48,Yes,No phone service,Fiber optic,Yes,No,No,No internet service,Yes,Yes,One year,No,Mailed check,86.29,3943.12,No
+0934-ABCDE,Female,0,Yes,No,25,Yes,No,DSL,Yes,Yes,No internet service,Yes,No,No internet service,One year,Yes,Credit card (automatic),19.75,476.02,No
+0935-ABCDE,Male,0,No,Yes,36,Yes,No,DSL,Yes,No,No internet service,No,No,Yes,One year,Yes,Credit card (automatic),101.66,3725.21,No
+0936-ABCDE,Female,0,No,Yes,8,Yes,Yes,DSL,Yes,Yes,No internet service,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),107.74,883.25,Yes
+0937-ABCDE,Male,0,Yes,Yes,58,Yes,No,No,Yes,No internet service,No,Yes,Yes,Yes,One year,No,Credit card (automatic),105.43,5879.71,No
+0938-ABCDE,Female,0,Yes,No,45,Yes,No,DSL,Yes,No,No,Yes,Yes,No internet service,One year,No,Bank transfer (automatic),56.26,2462.76,No
+0939-ABCDE,Female,0,Yes,No,62,No,No phone service,No,Yes,No,Yes,Yes,No,Yes,Two year,No,Electronic check,65.12,3875.5,No
+0940-ABCDE,Female,1,Yes,Yes,39,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Two year,No,Bank transfer (automatic),19.26,746.14,No
+0941-ABCDE,Male,0,No,Yes,58,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,No,Two year,Yes,Bank transfer (automatic),58.74,3279.54,No
+0942-ABCDE,Female,0,No,No,64,Yes,Yes,DSL,Yes,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),64.96,4131.37,No
+0943-ABCDE,Male,0,No,Yes,44,Yes,No,Fiber optic,No,Yes,No,No,No internet service,Yes,One year,No,Mailed check,110.51,4975.3,No
+0944-ABCDE,Male,1,Yes,Yes,29,Yes,Yes,DSL,No,No,No,No,Yes,No,One year,No,Electronic check,109.19,3224.58,Yes
+0945-ABCDE,Male,0,No,No,59,Yes,No phone service,No,No internet service,Yes,Yes,No,Yes,No internet service,One year,No,Electronic check,116.54,6724.91,No
+0946-ABCDE,Male,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,No internet service,Yes,Yes,No,No,Two year,Yes,Electronic check,108.28,7821.47,No
+0947-ABCDE,Female,1,Yes,No,9,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,No internet service,Yes,One year,No,Mailed check,18.84,176.81,No
+0948-ABCDE,Female,1,Yes,Yes,6,Yes,Yes,Fiber optic,Yes,No internet service,No,No internet service,No internet service,No internet service,One year,Yes,Electronic check,83.43,492.95,Yes
+0949-ABCDE,Male,0,Yes,Yes,29,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No internet service,No,One year,No,Electronic check,24.96,711.47,No
+0950-ABCDE,Male,0,Yes,No,58,Yes,No phone service,DSL,No internet service,Yes,Yes,Yes,No,No internet service,One year,Yes,Mailed check,45.8,2675.38,No
+0951-ABCDE,Female,0,Yes,No,17,Yes,Yes,Fiber optic,No,No,Yes,No,No internet service,No,One year,Yes,Electronic check,76.99,1275.52,Yes
+0952-ABCDE,Male,1,No,Yes,16,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),89.46,1453.06,Yes
+0953-ABCDE,Female,0,Yes,No,3,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,Yes,Yes,One year,Yes,Credit card (automatic),84.77,262.76,Yes
+0954-ABCDE,Male,0,No,Yes,21,Yes,No,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),23.0,481.04,Yes
+0955-ABCDE,Male,1,No,Yes,64,Yes,No phone service,No,Yes,Yes,No,Yes,No internet service,No,One year,No,Bank transfer (automatic),28.57,1861.3,No
+0956-ABCDE,Female,0,Yes,No,36,Yes,Yes,Fiber optic,No internet service,No,Yes,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),31.12,1137.34,No
+0957-ABCDE,Male,0,Yes,Yes,62,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,Yes,No internet service,One year,No,Credit card (automatic),27.32,1615.7,No
+0958-ABCDE,Female,0,Yes,Yes,42,No,No phone service,DSL,No,No,No,No internet service,No internet service,Yes,One year,Yes,Credit card (automatic),36.18,1471.45,No
+0959-ABCDE,Male,0,No,No,42,Yes,No phone service,No,Yes,No,No,No internet service,Yes,No,One year,Yes,Credit card (automatic),88.23,3851.49,Yes
+0960-ABCDE,Male,0,Yes,No,61,Yes,Yes,DSL,Yes,No,Yes,No internet service,No internet service,Yes,One year,Yes,Bank transfer (automatic),102.75,6542.84,No
+0961-ABCDE,Male,0,No,Yes,13,Yes,Yes,DSL,Yes,No,No internet service,No internet service,No internet service,No,Two year,Yes,Bank transfer (automatic),59.7,797.86,No
+0962-ABCDE,Female,0,Yes,No,11,Yes,No phone service,DSL,Yes,No internet service,No,No internet service,Yes,No,One year,No,Bank transfer (automatic),88.66,1016.34,Yes
+0963-ABCDE,Male,0,Yes,No,54,Yes,No,No,No internet service,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,No,Bank transfer (automatic),38.4,2033.4,No
+0964-ABCDE,Male,1,No,No,16,Yes,No phone service,DSL,No,No,Yes,No,Yes,No internet service,Two year,No,Bank transfer (automatic),117.27,1828.98,No
+0965-ABCDE,Male,0,No,No,8,Yes,No,DSL,No,No internet service,No internet service,No internet service,Yes,Yes,Two year,Yes,Bank transfer (automatic),53.7,424.63,No
+0966-ABCDE,Male,1,Yes,Yes,59,Yes,No phone service,DSL,No internet service,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),104.28,5878.94,No
+0967-ABCDE,Female,0,No,Yes,57,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Mailed check,114.43,6724.62,Yes
+0968-ABCDE,Female,1,No,Yes,40,Yes,No phone service,DSL,No,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Mailed check,106.2,4453.68,Yes
+0969-ABCDE,Male,0,No,No,59,Yes,Yes,No,No,No internet service,Yes,No,No,No internet service,Two year,No,Bank transfer (automatic),24.84,1513.05,No
+0970-ABCDE,Female,0,No,No,2,Yes,No,No,No internet service,Yes,No internet service,No,No internet service,No,Month-to-month,No,Mailed check,84.33,169.59,Yes
+0971-ABCDE,Male,0,No,No,10,Yes,No,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,Yes,One year,Yes,Mailed check,30.25,296.31,Yes
+0972-ABCDE,Male,1,Yes,No,44,Yes,No phone service,No,No,Yes,Yes,No,Yes,No internet service,One year,No,Credit card (automatic),18.58,792.81,No
+0973-ABCDE,Male,0,Yes,No,11,Yes,Yes,No,Yes,No internet service,No internet service,No internet service,Yes,Yes,One year,Yes,Bank transfer (automatic),23.28,252.6,No
+0974-ABCDE,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),111.45,226.62,Yes
+0975-ABCDE,Female,0,Yes,No,50,Yes,No,DSL,No internet service,Yes,No internet service,No internet service,No,No,One year,Yes,Mailed check,110.66,5503.71,No
+0976-ABCDE,Female,1,Yes,Yes,12,Yes,Yes,Fiber optic,Yes,Yes,No internet service,Yes,No,No,Two year,No,Bank transfer (automatic),41.03,513.73,No
+0977-ABCDE,Female,0,No,Yes,23,Yes,No,DSL,No internet service,No internet service,No internet service,No internet service,Yes,Yes,One year,No,Bank transfer (automatic),73.8,1757.53,No
+0978-ABCDE,Female,0,Yes,No,18,Yes,No,DSL,No,No internet service,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),115.41,1994.78,No
+0979-ABCDE,Female,0,No,No,62,Yes,No,No,No internet service,Yes,Yes,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),68.66,4100.06,No
+0980-ABCDE,Female,1,No,No,62,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No internet service,Yes,No,Two year,No,Mailed check,58.14,3668.21,No
+0981-ABCDE,Female,0,Yes,Yes,38,Yes,No,No,No internet service,No internet service,No,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,67.29,2488.18,No
+0982-ABCDE,Female,0,No,Yes,67,Yes,No,No,No,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Mailed check,98.6,6798.46,No
+0983-ABCDE,Male,0,No,No,38,Yes,No phone service,DSL,Yes,No internet service,No,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),66.68,2556.99,Yes
+0984-ABCDE,Female,0,No,No,67,Yes,No,No,No internet service,Yes,Yes,Yes,Yes,No internet service,One year,No,Electronic check,97.89,6381.44,No
+0985-ABCDE,Female,0,No,Yes,61,Yes,No,Fiber optic,Yes,No internet service,No internet service,No,No,No internet service,One year,No,Electronic check,62.03,3775.77,No
+0986-ABCDE,Female,0,No,Yes,1,Yes,No phone service,No,No,No,Yes,Yes,No,Yes,One year,No,Electronic check,43.7,43.29,Yes
+0987-ABCDE,Female,0,Yes,Yes,45,Yes,No phone service,No,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,51.3,2394.64,Yes
+0988-ABCDE,Female,0,Yes,Yes,28,Yes,Yes,DSL,No internet service,No internet service,No,Yes,Yes,Yes,One year,No,Credit card (automatic),25.94,692.34,No
+0989-ABCDE,Female,0,No,No,21,Yes,No,Fiber optic,No internet service,Yes,Yes,No internet service,No internet service,No,One year,No,Mailed check,68.73,1500.46,No
+0990-ABCDE,Female,0,No,Yes,13,Yes,Yes,No,No internet service,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),33.11,436.98,Yes
+0991-ABCDE,Female,0,Yes,Yes,27,Yes,Yes,DSL,No internet service,Yes,Yes,Yes,Yes,No internet service,Two year,No,Mailed check,100.78,2785.7,No
+0992-ABCDE,Female,0,No,No,7,Yes,No phone service,No,No internet service,No internet service,Yes,No internet service,Yes,No,Month-to-month,Yes,Mailed check,60.9,405.1,Yes
+0993-ABCDE,Female,0,Yes,Yes,22,No,Yes,Fiber optic,No internet service,No,Yes,No internet service,No,No,One year,Yes,Mailed check,96.03,2139.75,Yes
+0994-ABCDE,Female,0,No,Yes,53,Yes,No,No,No,No,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,115.35,6167.65,Yes
+0995-ABCDE,Male,0,No,Yes,4,Yes,No phone service,No,No,No internet service,No,No,No,No,Two year,No,Mailed check,104.65,420.16,Yes
+0996-ABCDE,Male,0,No,No,23,Yes,No,DSL,No,No internet service,No internet service,No,No internet service,No internet service,Two year,No,Credit card (automatic),115.05,2721.79,No
+0997-ABCDE,Female,0,No,Yes,70,Yes,No,No,Yes,No internet service,No,Yes,No,No internet service,Two year,No,Credit card (automatic),75.93,5344.8,No
+0998-ABCDE,Female,0,No,No,33,Yes,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),34.86,1191.46,No
+0999-ABCDE,Male,1,No,No,28,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Two year,Yes,Electronic check,113.41,3090.58,Yes

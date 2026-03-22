@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Churn XAI - Explainable Prediction Platform</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <div class="logo-icon"></div>
+                <h1>Churn<span>AI</span></h1>
+            </div>
+            <nav class="nav-menu">
+                <a href="#" class="active"><i class="icon-dash"></i> Dashboard</a>
+                <a href="#"><i class="icon-analytics"></i> Analytics</a>
+                <a href="#"><i class="icon-users"></i> Customers</a>
+                <a href="#"><i class="icon-settings"></i> Settings</a>
+            </nav>
+            <div class="sidebar-user">
+                <div class="avatar"></div>
+                <div class="user-info">
+                    <span class="user-name">Dhina</span>
+                    <span class="user-role">Analytics Lead</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-nav">
+                <div class="search-bar">
+                    <input type="text" placeholder="Search customers...">
+                </div>
+                <div class="top-actions">
+                    <div class="badge">PRO</div>
+                    <button class="btn-primary">Export Report</button>
+                </div>
+            </header>
+
+            <div class="dashboard-grid">
+                <!-- Left: Predictor Form -->
+                <section class="predictor-section card">
+                    <div class="card-header">
+                        <h2>Predictor Core</h2>
+                        <p>Simulate customer scenarios to forecast churn probability.</p>
+                    </div>
+                    <form id="predictor-form" class="form-grid">
+                        <div class="form-group">
+                            <label>Gender</label>
+                            <select name="gender">
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Senior Citizen</label>
+                            <select name="SeniorCitizen">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Tenure (Months)</label>
+                            <input type="number" name="tenure" value="24" min="1" max="72">
+                        </div>
+                        <div class="form-group">
+                            <label>Contract</label>
+                            <select name="Contract">
+                                <option value="Month-to-month">Month-to-month</option>
+                                <option value="One year">One year</option>
+                                <option value="Two year">Two year</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Internet Service</label>
+                            <select name="InternetService">
+                                <option value="Fiber optic">Fiber optic</option>
+                                <option value="DSL">DSL</option>
+                                <option value="No">No Service</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Monthly Charges ($)</label>
+                            <input type="number" name="MonthlyCharges" value="70" step="0.01">
+                        </div>
+                        <button type="submit" class="btn-predict">Analyze Risk</button>
+                    </form>
+                </section>
+
+                <!-- Right: Prediction Results -->
+                <div class="results-column">
+                    <section class="churn-result card">
+                        <div class="card-header">
+                            <h2>Churn Risk Probability</h2>
+                        </div>
+                        <div class="probability-display">
+                            <div class="prob-circle-bg">
+                                <div class="prob-circle" id="prob-circle" style="--percent: 0;">
+                                    <span id="prob-text">0%</span>
+                                </div>
+                            </div>
+                            <div class="risk-label" id="risk-label">Analyzing...</div>
+                        </div>
+                    </section>
+
+                    <section class="shap-explanation card">
+                        <div class="card-header">
+                            <h2>Explainable AI (XAI) Insight</h2>
+                            <p>Top factors driving this prediction (SHAP Values)</p>
+                        </div>
+                        <div id="shap-container" class="shap-list">
+                            <div class="placeholder-text">Run prediction to see insights...</div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
